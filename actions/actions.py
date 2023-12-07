@@ -241,6 +241,7 @@ class ActionRetriveAlldocs(Action):
         res = {
             'Title': "Retrive All Documents",
             'Project name': project_name,
+            'Customer name': customer_name,
 
         }
         msg = json.dumps(res)
