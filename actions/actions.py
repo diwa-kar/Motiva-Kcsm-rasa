@@ -104,7 +104,31 @@ class ActionRetriveFRS(Action):
         dispatcher.utter_message(text=msg)
 
         return []
-    
+
+class ActionRetriveRFP(Action):
+
+    def name(self) -> Text:
+        return "action_retrive_rfp"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        project_name = tracker.get_slot('project_name')
+        customer_name = tracker.get_slot('customer_name')
+        doc_type = tracker.get_slot('doc_type')
+        res = {
+            'Title': "Retrive RFP Document",
+            'Project name': project_name,
+            'Customer name': customer_name,
+            'Document type': doc_type
+        }
+        msg = json.dumps(res)
+        print(msg)
+        dispatcher.utter_message(text=msg)
+
+        return []
+
 class ActionRetriveSDD(Action):
 
     def name(self) -> Text:

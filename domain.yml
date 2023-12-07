@@ -22,6 +22,7 @@ actions:
   - action_retrive_tp
   - action_retrive_cp
   - action_retrive_frs
+  - action_retrive_rfp
   - action_retrive_sdd
   - action_retrive_uat
   - action_retrive_cutover
