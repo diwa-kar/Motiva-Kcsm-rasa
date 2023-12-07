@@ -4,13 +4,13 @@ rules:
 
 - rule: Say goodbye anytime the user says goodbye
   steps:
-  - intent: goodbye
-  - action: utter_goodbye
+  - intent: intent_goodbye
+  - action: action_goodbye
 
-- rule: Say 'I am a bot' anytime the user challenges
+- rule: Greet user
   steps:
-  - intent: bot_challenge
-  - action: utter_iamabot
+  - intent: intent_greet
+  - action: action_greet
 
 - rule: Retrive TP Document
   steps:
