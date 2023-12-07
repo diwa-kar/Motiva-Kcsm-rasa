@@ -114,7 +114,8 @@ class ActionRetriveRFP(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-        project_name = tracker.get_slot('project_name')
+        project_name = tracker.get_slot("project_name")
+        print(project_name)
         customer_name = tracker.get_slot('customer_name')
         doc_type = tracker.get_slot('doc_type')
         res = {
