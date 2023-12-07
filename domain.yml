@@ -29,27 +29,27 @@ actions:
   - action_retrive_alldocs
   - action_project_list
 
-responses:
-  utter_greet:
-  - text: "Hey! How are you?"
+# responses:
+#   utter_greet:
+#   - text: "Hey! How are you?"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+#   utter_cheer_up:
+#   - text: "Here is something to cheer you up:"
+#     image: "https://i.imgur.com/nGF1K8f.jpg"
 
-  utter_did_that_help:
-  - text: "Did that help you?"
+#   utter_did_that_help:
+#   - text: "Did that help you?"
 
-  utter_happy:
-  - text: "Great, carry on!"
+#   utter_happy:
+#   - text: "Great, carry on!"
 
-  utter_goodbye:
-  - text: "Bye"
-  utter_default:
-  - text: Sorry I didn't get that. Can you rephrase?
+#   utter_goodbye:
+#   - text: "Bye"
+#   utter_default:
+#   - text: Sorry I didn't get that. Can you rephrase?
 
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+#   utter_iamabot:
+#   - text: "I am a bot, powered by Rasa."
 
 entities:
   - doc_type:
