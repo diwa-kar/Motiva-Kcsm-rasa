@@ -11,3 +11,48 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule: Retrive TP Document
+  steps:
+  - intent: intent_retrive_tp
+  - action: action_retrive_tp
+
+- rule: Retrive CP Document
+  steps:
+  - intent: intent_retrive_cp
+  - action: action_retrive_cp
+
+- rule: Retrive FRS Document
+  steps:
+  - intent: intent_retrive_frs
+  - action: action_retrive_frs
+
+- rule: Retrive SDD Document
+  steps:
+  - intent: intent_retrive_sdd
+  - action: action_retrive_sdd
+
+- rule: Retrive UAT Document
+  steps:
+  - intent: intent_retrive_uat
+  - action: action_retrive_uat
+
+- rule: Retrive Cutover Document
+  steps:
+  - intent: intent_retrive_cutover
+  - action: action_retrive_cutover
+
+- rule: Retrive Signoff Document
+  steps:
+  - intent: intent_retrive_signoff
+  - action: action_retrive_signoff
+
+- rule: Retrive All Documents
+  steps:
+  - intent: intent_retrive_alldocs
+  - action: action_retrive_alldocs
+
+- rule: List of Projects
+  steps:
+  - intent: intent_project_list
+  - action: action_project_list
