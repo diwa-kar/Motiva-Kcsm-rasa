@@ -27,6 +27,11 @@ rules:
   - intent: intent_retrive_frs
   - action: action_retrive_frs
 
+- rule: Retrive RFP Document
+  steps:
+  - intent: intent_retrive_rfp
+  - action: action_retrive_rfp
+
 - rule: Retrive SDD Document
   steps:
   - intent: intent_retrive_sdd
