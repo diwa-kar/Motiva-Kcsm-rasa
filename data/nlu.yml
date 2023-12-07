@@ -20143,32 +20143,32 @@ nlu:
     - bring Cutover[doc_type] doc of NOMAC[project_name] prjct done for SERV[customer_name] this cust
     - Cutover[doc_type] doc of the project NOMAC[project_name]
     - Cutover[doc_type] doc of the prjct NOMAC[project_name]
-  - show me the Cutover[doc_type] of the NOMAC[project_name] done for Dole[customer_name]
-  - fetch the Cutover[doc_type] of the NOMAC[project_name] done for Dole[customer_name]
-  - please bring me the Cutover[doc_type] of NOMAC[project_name] of Dole[customer_name]
-  - could you please show Dole[customer_name] - NOMAC[project_name] - Cutover[doc_type]
-  - Cutover[doc_type] of the NOMAC[project_name] done for Dole[customer_name]
-  - Cutover[doc_type] of NOMAC[project_name]
-  - Cutover[doc_type] for NOMAC[project_name]
-  - Dole[customer_name] NOMAC[project_name] Cutover[doc_type]
-  - Cutover[doc_type] NOMAC[project_name] Dole[customer_name]
-  - bring Cutover[doc_type] document of the NOMAC[project_name] project done for Dole[customer_name] this customer
-  - bring Cutover[doc_type] doc of NOMAC[project_name] prjct done for Dole[customer_name] this cust
-  - Cutover[doc_type] doc of the project NOMAC[project_name]
-  - Cutover[doc_type] doc of the prjct NOMAC[project_name]
-  - show me the Cutover[doc_type] of the NOMAC[project_name] done for Linon[customer_name]
-  - fetch the Cutover[doc_type] of the NOMAC[project_name] done for Linon[customer_name]
-  - please bring me the Cutover[doc_type] of NOMAC[project_name] of Linon[customer_name]
-  - could you please show Linon[customer_name] - NOMAC[project_name] - Cutover[doc_type]
-  - Cutover[doc_type] of the NOMAC[project_name] done for Linon[customer_name]
-  - Cutover[doc_type] of NOMAC[project_name]
-  - Cutover[doc_type] for NOMAC[project_name]
-  - Linon[customer_name] NOMAC[project_name] Cutover[doc_type]
-  - Cutover[doc_type] NOMAC[project_name] Linon[customer_name]
-  - bring Cutover[doc_type] document of the NOMAC[project_name] project done for Linon[customer_name] this customer
-  - bring Cutover[doc_type] doc of NOMAC[project_name] prjct done for Linon[customer_name] this cust
-  - Cutover[doc_type] doc of the project NOMAC[project_name]
-  - Cutover[doc_type] doc of the prjct NOMAC[project_name]
+    - show me the Cutover[doc_type] of the NOMAC[project_name] done for Dole[customer_name]
+    - fetch the Cutover[doc_type] of the NOMAC[project_name] done for Dole[customer_name]
+    - please bring me the Cutover[doc_type] of NOMAC[project_name] of Dole[customer_name]
+    - could you please show Dole[customer_name] - NOMAC[project_name] - Cutover[doc_type]
+    - Cutover[doc_type] of the NOMAC[project_name] done for Dole[customer_name]
+    - Cutover[doc_type] of NOMAC[project_name]
+    - Cutover[doc_type] for NOMAC[project_name]
+    - Dole[customer_name] NOMAC[project_name] Cutover[doc_type]
+    - Cutover[doc_type] NOMAC[project_name] Dole[customer_name]
+    - bring Cutover[doc_type] document of the NOMAC[project_name] project done for Dole[customer_name] this customer
+    - bring Cutover[doc_type] doc of NOMAC[project_name] prjct done for Dole[customer_name] this cust
+    - Cutover[doc_type] doc of the project NOMAC[project_name]
+    - Cutover[doc_type] doc of the prjct NOMAC[project_name]
+    - show me the Cutover[doc_type] of the NOMAC[project_name] done for Linon[customer_name]
+    - fetch the Cutover[doc_type] of the NOMAC[project_name] done for Linon[customer_name]
+    - please bring me the Cutover[doc_type] of NOMAC[project_name] of Linon[customer_name]
+    - could you please show Linon[customer_name] - NOMAC[project_name] - Cutover[doc_type]
+    - Cutover[doc_type] of the NOMAC[project_name] done for Linon[customer_name]
+    - Cutover[doc_type] of NOMAC[project_name]
+    - Cutover[doc_type] for NOMAC[project_name]
+    - Linon[customer_name] NOMAC[project_name] Cutover[doc_type]
+    - Cutover[doc_type] NOMAC[project_name] Linon[customer_name]
+    - bring Cutover[doc_type] document of the NOMAC[project_name] project done for Linon[customer_name] this customer
+    - bring Cutover[doc_type] doc of NOMAC[project_name] prjct done for Linon[customer_name] this cust
+    - Cutover[doc_type] doc of the project NOMAC[project_name]
+    - Cutover[doc_type] doc of the prjct NOMAC[project_name]
 
 - intent: intent_retrive_signoff
   examples: |
