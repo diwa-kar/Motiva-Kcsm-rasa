@@ -4,7 +4,6 @@ intents:
 
   - intent_greet
   - intent_goodbye
-
   - intent_retrive_tp
   - intent_retrive_cp
   - intent_retrive_frs
