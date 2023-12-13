@@ -24,5 +24,5 @@ rules:
 
 - rule: Send Single Documents
   steps:
-  - intent: alldoclist_intent
-  - action: alldoclist_action
+  - intent: singledocget_intent
+  - action: singledocget_action
