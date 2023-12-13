@@ -12,52 +12,12 @@ rules:
   - intent: intent_greet
   - action: action_greet
 
-- rule: Retrive TP Document
+- rule: Send Project list
   steps:
-  - intent: intent_retrive_tp
-  - action: action_retrive_tp
+  - intent: projectlist_intent
+  - action: projectlist_action
 
-- rule: Retrive CP Document
+- rule: Send All Documents
   steps:
-  - intent: intent_retrive_cp
-  - action: action_retrive_cp
-
-- rule: Retrive FRS Document
-  steps:
-  - intent: intent_retrive_frs
-  - action: action_retrive_frs
-
-- rule: Retrive RFP Document
-  steps:
-  - intent: intent_retrive_rfp
-  - action: action_retrive_rfp
-
-- rule: Retrive SDD Document
-  steps:
-  - intent: intent_retrive_sdd
-  - action: action_retrive_sdd
-
-- rule: Retrive UAT Document
-  steps:
-  - intent: intent_retrive_uat
-  - action: action_retrive_uat
-
-- rule: Retrive Cutover Document
-  steps:
-  - intent: intent_retrive_cutover
-  - action: action_retrive_cutover
-
-- rule: Retrive Signoff Document
-  steps:
-  - intent: intent_retrive_signoff
-  - action: action_retrive_signoff
-
-- rule: Retrive All Documents
-  steps:
-  - intent: intent_retrive_alldocs
-  - action: action_retrive_alldocs
-
-- rule: List of Projects
-  steps:
-  - intent: intent_project_list
-  - action: action_project_list
+  - intent: alldoclist_intent
+  - action: alldoclist_action
