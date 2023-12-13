@@ -21,3 +21,8 @@ rules:
   steps:
   - intent: alldoclist_intent
   - action: alldoclist_action
+
+- rule: Send Single Documents
+  steps:
+  - intent: alldoclist_intent
+  - action: alldoclist_action

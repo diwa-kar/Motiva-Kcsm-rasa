@@ -77,3 +77,28 @@ class ActionAlldocList(Action):
         dispatcher.utter_message(text=msg)
 
         return [SlotSet("customer_name", None),SlotSet("project_name", None)]
+    
+class ActionOnedocList(Action):
+
+    def name(self) -> Text:
+        return "singledocget_action"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        customer_name = tracker.get_slot('customer_name')
+        project_name = tracker.get_slot('project_name')
+        doc_type = tracker.get_slot('doc_type')
+        
+        res = {
+            'Title': "Document type",
+            'Customer name': customer_name,
+            'Project name': project_name,
+            'Doc type':doc_type
+        }
+        msg = json.dumps(res)
+        print(msg)
+        dispatcher.utter_message(text=msg)
+
+        return [SlotSet("customer_name", None),SlotSet("project_name", None),SlotSet("doc_type",None)]
