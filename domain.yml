@@ -1,47 +1,53 @@
 version: "3.1"
 
 intents:
-  - greet_intent
-  - goodbye_intent
+
+  - intent_greet
+  - intent_goodbye
   - projectlist_intent
   - alldoclist_intent
 
-responses:
-  utter_greet:
-  - text: "Hey! How are you?"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
-
-  utter_goodbye:
-  - text: "Bye"
-
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
 
 actions:
+  - action_greet
+  - action_goodbye
   - projectlist_action
   - alldoclist_action
+
+# responses:
+#   utter_greet:
+#   - text: "Hey! How are you?"
+
+#   utter_cheer_up:
+#   - text: "Here is something to cheer you up:"
+#     image: "https://i.imgur.com/nGF1K8f.jpg"
+
+#   utter_did_that_help:
+#   - text: "Did that help you?"
+
+#   utter_happy:
+#   - text: "Great, carry on!"
+
+#   utter_goodbye:
+#   - text: "Bye"
+#   utter_default:
+#   - text: Sorry I didn't get that. Can you rephrase?
+
+#   utter_iamabot:
+#   - text: "I am a bot, powered by Rasa."
 
 entities:
   - doc_type:
       type: text
       pattern: '[A-Za-z. ]+$'
-      
+
   - customer_name:
       type: text
-      pattern : '[A-Za-z. ]+$'
+      pattern: '[A-Za-z. ]+$'
   
   - project_name:
       type: text
-      pattern : '[A-Za-z0-9. ]+$'
+      pattern: '[A-Za-z0-9. ]+$'
 
 slots:
   project_name:
@@ -64,6 +70,7 @@ slots:
       mappings:
       - type: from_entity
         entity: doc_type
+
 
 session_config:
   session_expiration_time: 60
