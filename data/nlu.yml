@@ -1954,10 +1954,10 @@ nlu:
     - documents of [Change Order - In BCM Implementation](project_name) [Qatar Business Management Group L.L.C](customer_name)
     - give me [Qatar Business Management Group L.L.C](customer_name) [Change Order - In BCM Implementation](project_name) docs
     - documents [Change Order - In BCM Implementation](project_name) [Qatar Business Management Group L.L.C](customer_name)
-    - documents of the [AI-Yamamah Offshore Support  (AYR)](project_name) done for [Qatar Gas Transport Company Ltd](customer_name)
-    - documents of [AI-Yamamah Offshore Support  (AYR)](project_name) [Qatar Gas Transport Company Ltd](customer_name)
-    - give me [Qatar Gas Transport Company Ltd](customer_name) [AI-Yamamah Offshore Support  (AYR)](project_name) docs
-    - documents [AI-Yamamah Offshore Support  (AYR)](project_name) [Qatar Gas Transport Company Ltd](customer_name)
+    - documents of the [AI-Yamamah Offshore Support](project_name) done for [Qatar Gas Transport Company Ltd](customer_name)
+    - documents of [AI-Yamamah Offshore Support](project_name) [Qatar Gas Transport Company Ltd](customer_name)
+    - give me [Qatar Gas Transport Company Ltd](customer_name) [AI-Yamamah Offshore Support](project_name) docs
+    - documents [AI-Yamamah Offshore Support](project_name) [Qatar Gas Transport Company Ltd](customer_name)
     - documents of the [HCM Revamping](project_name) done for [Qatar International Petroleum Marketing Company](customer_name)
     - documents of [HCM Revamping](project_name) [Qatar International Petroleum Marketing Company](customer_name)
     - give me [Qatar International Petroleum Marketing Company](customer_name) [HCM Revamping](project_name) docs
@@ -2066,10 +2066,10 @@ nlu:
     - documents of [SLCM Implementation](project_name) [Saudi Arabian General Investment Authority](customer_name)
     - give me [Saudi Arabian General Investment Authority](customer_name) [SLCM Implementation](project_name) docs
     - documents [SLCM Implementation](project_name) [Saudi Arabian General Investment Authority](customer_name)
-    - documents of the [Hardware on Cloud (Kaar Cloud Implementation)](project_name) done for [Saudi Arabian\xa0Amiantit\xa0Company](customer_name)
-    - documents of [Hardware on Cloud (Kaar Cloud Implementation)](project_name) [Saudi Arabian\xa0Amiantit\xa0Company](customer_name)
-    - give me [Saudi Arabian\xa0Amiantit\xa0Company](customer_name) [Hardware on Cloud (Kaar Cloud Implementation)](project_name) docs
-    - documents [Hardware on Cloud (Kaar Cloud Implementation)](project_name) [Saudi Arabian\xa0Amiantit\xa0Company](customer_name)
+    - documents of the [Hardware on Cloud](project_name) done for [Saudi Arabian\xa0Amiantit\xa0Company](customer_name)
+    - documents of [Hardware on Cloud](project_name) [Saudi Arabian\xa0Amiantit\xa0Company](customer_name)
+    - give me [Saudi Arabian\xa0Amiantit\xa0Company](customer_name) [Hardware on Cloud](project_name) docs
+    - documents [Hardware on Cloud](project_name) [Saudi Arabian\xa0Amiantit\xa0Company](customer_name)
     - documents of the [Kaar Cloud instances](project_name) done for [Saudi Aramco](customer_name)
     - documents of [Kaar Cloud instances](project_name) [Saudi Aramco](customer_name)
     - give me [Saudi Aramco](customer_name) [Kaar Cloud instances](project_name) docs
@@ -2196,8 +2196,8 @@ nlu:
     - bring all documents of [Additional licenses 2 - 2015](project_name) prjct done for [Virtusa Software Services](customer_name) this cust
     - bring all the documents of the [BW Offshore T&M - Extension](project_name) project done for [Virtusa-Astrazeneca](customer_name) this customer
     - bring all documents of [BW Offshore T&M - Extension](project_name) prjct done for [Virtusa-Astrazeneca](customer_name) this cust
-    - bring all the documents of the [Unitra - Additional required (CR3)](project_name) project done for [WABCO India Limited](customer_name) this customer
-    - bring all documents of [Unitra - Additional required (CR3)](project_name) prjct done for [WABCO India Limited](customer_name) this cust
+    - bring all the documents of the [Unitra - Additional required](project_name) project done for [WABCO India Limited](customer_name) this customer
+    - bring all documents of [Unitra - Additional required](project_name) prjct done for [WABCO India Limited](customer_name) this cust
     - bring all the documents of the [Mezzan Offshore Support](project_name) project done for [Wheels India Limited](customer_name) this customer
     - bring all documents of [Mezzan Offshore Support](project_name) prjct done for [Wheels India Limited](customer_name) this cust
     - bring all the documents of the [Mezzan Fiori App Development](project_name) project done for [Xerox](customer_name) this customer
@@ -2212,8 +2212,8 @@ nlu:
     - bring all documents of [BPC license](project_name) prjct done for [Zeckelmen](customer_name) this cust
     - bring all the documents of the [AMS Hours Extension](project_name) project done for [Zeoits](customer_name) this customer
     - bring all documents of [AMS Hours Extension](project_name) prjct done for [Zeoits](customer_name) this cust
-    - bring all the documents of the [BW Offshore T&M - Extension (3)](project_name) project done for [The Industrial Group](customer_name) this customer
-    - bring all documents of [BW Offshore T&M - Extension (3)](project_name) prjct done for [The Industrial Group](customer_name) this cust
+    - bring all the documents of the [BW Offshore T&M - Extension](project_name) project done for [The Industrial Group](customer_name) this customer
+    - bring all documents of [BW Offshore T&M - Extension](project_name) prjct done for [The Industrial Group](customer_name) this cust
     - bring all the documents of the [BI, BW & BO Support](project_name) project done for [Al Rahji](customer_name) this customer
     - bring all documents of [BI, BW & BO Support](project_name) prjct done for [Al Rahji](customer_name) this cust
     - bring all the documents of the [Inventory tool for stock counting](project_name) project done for [Mohsin Haider Darwish](customer_name) this customer
@@ -2276,8 +2276,8 @@ nlu:
     - bring all documents of [SAP BW/ Native HANA Consulting](project_name) prjct done for [NUPCO](customer_name) this cust
     - bring all the documents of the [Solution Manager Implementation](project_name) project done for [NWC](customer_name) this customer
     - bring all documents of [Solution Manager Implementation](project_name) prjct done for [NWC](customer_name) this cust
-    - bring all the documents of the [Bar Code Solutions Systems (C4C)](project_name) project done for [OARC](customer_name) this customer
-    - bring all documents of [Bar Code Solutions Systems (C4C)](project_name) prjct done for [OARC](customer_name) this cust
+    - bring all the documents of the [Bar Code Solutions Systems](project_name) project done for [OARC](customer_name) this customer
+    - bring all documents of [Bar Code Solutions Systems](project_name) prjct done for [OARC](customer_name) this cust
     - bring all the documents of the [Conares Support](project_name) project done for [S.A.O.G](customer_name) this customer
     - bring all documents of [Conares Support](project_name) prjct done for [S.A.O.G](customer_name) this cust
     - bring all the documents of the [Romana Cloud](project_name) project done for [S.A.O.C](customer_name) this customer
@@ -3547,15 +3547,15 @@ nlu:
     - could you please show ['Qatar Business Management Group L.L.C'](customer_name) - ['Change Order - In BCM Implementation'](project_name) - ['UAT'](doc_type)
     - can you bring the ['UAT'](doc_type) of the ['Change Order - In BCM Implementation'](project_name) done for ['Qatar Business Management Group L.L.C'](customer_name)
     - document ['Qatar Business Management Group L.L.C'](customer_name) ['Change Order - In BCM Implementation'](project_name) ['UAT'](doc_type)
-    - could you please show ['Qatar Gas Transport Company Ltd  '](customer_name) - ['AI-Yamamah Offshore Support  (AYR)'](project_name) - ['SDD'](doc_type)
-    - can you bring the ['SDD'](doc_type) of the ['AI-Yamamah Offshore Support  (AYR)'](project_name) done for ['Qatar Gas Transport Company Ltd  '](customer_name)
-    - document ['Qatar Gas Transport Company Ltd  '](customer_name) ['AI-Yamamah Offshore Support  (AYR)'](project_name) ['SDD'](doc_type)
-    - could you please show ['Qatar Gas Transport Company Ltd  '](customer_name) - ['AI-Yamamah Offshore Support  (AYR)'](project_name) - ['FRS'](doc_type)
-    - can you bring the ['FRS'](doc_type) of the ['AI-Yamamah Offshore Support  (AYR)'](project_name) done for ['Qatar Gas Transport Company Ltd  '](customer_name)
-    - document ['Qatar Gas Transport Company Ltd  '](customer_name) ['AI-Yamamah Offshore Support  (AYR)'](project_name) ['FRS'](doc_type)
-    - could you please show ['Qatar Gas Transport Company Ltd  '](customer_name) - ['AI-Yamamah Offshore Support  (AYR)'](project_name) - ['UAT'](doc_type)
-    - can you bring the ['UAT'](doc_type) of the ['AI-Yamamah Offshore Support  (AYR)'](project_name) done for ['Qatar Gas Transport Company Ltd  '](customer_name)
-    - document ['Qatar Gas Transport Company Ltd  '](customer_name) ['AI-Yamamah Offshore Support  (AYR)'](project_name) ['UAT'](doc_type)
+    - could you please show ['Qatar Gas Transport Company Ltd  '](customer_name) - ['AI-Yamamah Offshore Support'](project_name) - ['SDD'](doc_type)
+    - can you bring the ['SDD'](doc_type) of the ['AI-Yamamah Offshore Support'](project_name) done for ['Qatar Gas Transport Company Ltd  '](customer_name)
+    - document ['Qatar Gas Transport Company Ltd  '](customer_name) ['AI-Yamamah Offshore Support'](project_name) ['SDD'](doc_type)
+    - could you please show ['Qatar Gas Transport Company Ltd  '](customer_name) - ['AI-Yamamah Offshore Support'](project_name) - ['FRS'](doc_type)
+    - can you bring the ['FRS'](doc_type) of the ['AI-Yamamah Offshore Support'](project_name) done for ['Qatar Gas Transport Company Ltd  '](customer_name)
+    - document ['Qatar Gas Transport Company Ltd  '](customer_name) ['AI-Yamamah Offshore Support'](project_name) ['FRS'](doc_type)
+    - could you please show ['Qatar Gas Transport Company Ltd  '](customer_name) - ['AI-Yamamah Offshore Support'](project_name) - ['UAT'](doc_type)
+    - can you bring the ['UAT'](doc_type) of the ['AI-Yamamah Offshore Support'](project_name) done for ['Qatar Gas Transport Company Ltd  '](customer_name)
+    - document ['Qatar Gas Transport Company Ltd  '](customer_name) ['AI-Yamamah Offshore Support'](project_name) ['UAT'](doc_type)
     - could you please show ['Qatar International Petroleum Marketing Company  '](customer_name) - ['HCM Revamping'](project_name) - ['SDD'](doc_type)
     - can you bring the ['SDD'](doc_type) of the ['HCM Revamping'](project_name) done for ['Qatar International Petroleum Marketing Company  '](customer_name)
     - document ['Qatar International Petroleum Marketing Company  '](customer_name) ['HCM Revamping'](project_name) ['SDD'](doc_type)
@@ -3799,15 +3799,15 @@ nlu:
     - could you please show ['Saudi Arabian General Investment Authority  '](customer_name) - ['SLCM Implementation'](project_name) - ['UAT'](doc_type)
     - can you bring the ['UAT'](doc_type) of the ['SLCM Implementation'](project_name) done for ['Saudi Arabian General Investment Authority  '](customer_name)
     - document ['Saudi Arabian General Investment Authority  '](customer_name) ['SLCM Implementation'](project_name) ['UAT'](doc_type)
-    - could you please show ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) - ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) - ['SDD'](doc_type)
-    - can you bring the ['SDD'](doc_type) of the ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) done for ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name)
-    - document ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) ['SDD'](doc_type)
-    - could you please show ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) - ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) - ['FRS'](doc_type)
-    - can you bring the ['FRS'](doc_type) of the ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) done for ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name)
-    - document ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) ['FRS'](doc_type)
-    - could you please show ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) - ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) - ['UAT'](doc_type)
-    - can you bring the ['UAT'](doc_type) of the ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) done for ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name)
-    - document ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) ['Hardware on Cloud (Kaar Cloud Implementation)'](project_name) ['UAT'](doc_type)
+    - could you please show ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) - ['Hardware on Cloud'](project_name) - ['SDD'](doc_type)
+    - can you bring the ['SDD'](doc_type) of the ['Hardware on Cloud'](project_name) done for ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name)
+    - document ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) ['Hardware on Cloud'](project_name) ['SDD'](doc_type)
+    - could you please show ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) - ['Hardware on Cloud'](project_name) - ['FRS'](doc_type)
+    - can you bring the ['FRS'](doc_type) of the ['Hardware on Cloud'](project_name) done for ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name)
+    - document ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) ['Hardware on Cloud'](project_name) ['FRS'](doc_type)
+    - could you please show ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) - ['Hardware on Cloud'](project_name) - ['UAT'](doc_type)
+    - can you bring the ['UAT'](doc_type) of the ['Hardware on Cloud'](project_name) done for ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name)
+    - document ['Saudi Arabian\xa0Amiantit\xa0Company  '](customer_name) ['Hardware on Cloud'](project_name) ['UAT'](doc_type)
     - could you please show ['Saudi Aramco'](customer_name) - ['Kaar Cloud instances'](project_name) - ['SDD'](doc_type)
     - can you bring the ['SDD'](doc_type) of the ['Kaar Cloud instances'](project_name) done for ['Saudi Aramco'](customer_name)
     - document ['Saudi Aramco'](customer_name) ['Kaar Cloud instances'](project_name) ['SDD'](doc_type)
@@ -4384,18 +4384,18 @@ nlu:
     - doc ['UM'](doc_type) ['BW Offshore T&M - Extension'](project_name) ['Virtusa-Astrazeneca'](customer_name)
     - bring ['UM'](doc_type) document of the ['BW Offshore T&M - Extension'](project_name) project done for ['Virtusa-Astrazeneca'](customer_name) this customer
     - bring ['UM'](doc_type) doc of ['BW Offshore T&M - Extension'](project_name) prjct done for ['Virtusa-Astrazeneca'](customer_name) this cust
-    - doc ['signoff'](doc_type) ['Unitra - Additional required (CR3)'](project_name) ['WABCO India Limited'](customer_name)
-    - bring ['signoff'](doc_type) document of the ['Unitra - Additional required (CR3)'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
-    - bring ['signoff'](doc_type) doc of ['Unitra - Additional required (CR3)'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
-    - doc ['Cutover'](doc_type) ['Unitra - Additional required (CR3)'](project_name) ['WABCO India Limited'](customer_name)
-    - bring ['Cutover'](doc_type) document of the ['Unitra - Additional required (CR3)'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
-    - bring ['Cutover'](doc_type) doc of ['Unitra - Additional required (CR3)'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
-    - doc ['User manual'](doc_type) ['Unitra - Additional required (CR3)'](project_name) ['WABCO India Limited'](customer_name)
-    - bring ['User manual'](doc_type) document of the ['Unitra - Additional required (CR3)'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
-    - bring ['User manual'](doc_type) doc of ['Unitra - Additional required (CR3)'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
-    - doc ['UM'](doc_type) ['Unitra - Additional required (CR3)'](project_name) ['WABCO India Limited'](customer_name)
-    - bring ['UM'](doc_type) document of the ['Unitra - Additional required (CR3)'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
-    - bring ['UM'](doc_type) doc of ['Unitra - Additional required (CR3)'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
+    - doc ['signoff'](doc_type) ['Unitra - Additional required'](project_name) ['WABCO India Limited'](customer_name)
+    - bring ['signoff'](doc_type) document of the ['Unitra - Additional required'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
+    - bring ['signoff'](doc_type) doc of ['Unitra - Additional required'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
+    - doc ['Cutover'](doc_type) ['Unitra - Additional required'](project_name) ['WABCO India Limited'](customer_name)
+    - bring ['Cutover'](doc_type) document of the ['Unitra - Additional required'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
+    - bring ['Cutover'](doc_type) doc of ['Unitra - Additional required'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
+    - doc ['User manual'](doc_type) ['Unitra - Additional required'](project_name) ['WABCO India Limited'](customer_name)
+    - bring ['User manual'](doc_type) document of the ['Unitra - Additional required'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
+    - bring ['User manual'](doc_type) doc of ['Unitra - Additional required'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
+    - doc ['UM'](doc_type) ['Unitra - Additional required'](project_name) ['WABCO India Limited'](customer_name)
+    - bring ['UM'](doc_type) document of the ['Unitra - Additional required'](project_name) project done for ['WABCO India Limited'](customer_name) this customer
+    - bring ['UM'](doc_type) doc of ['Unitra - Additional required'](project_name) prjct done for ['WABCO India Limited'](customer_name) this cust
     - doc ['signoff'](doc_type) ['Mezzan Offshore Support'](project_name) ['Wheels India Limited'](customer_name)
     - bring ['signoff'](doc_type) document of the ['Mezzan Offshore Support'](project_name) project done for ['Wheels India Limited'](customer_name) this customer
     - bring ['signoff'](doc_type) doc of ['Mezzan Offshore Support'](project_name) prjct done for ['Wheels India Limited'](customer_name) this cust
@@ -4480,18 +4480,18 @@ nlu:
     - doc ['UM'](doc_type) ['AMS Hours Extension'](project_name) ['Zeoits'](customer_name)
     - bring ['UM'](doc_type) document of the ['AMS Hours Extension'](project_name) project done for ['Zeoits'](customer_name) this customer
     - bring ['UM'](doc_type) doc of ['AMS Hours Extension'](project_name) prjct done for ['Zeoits'](customer_name) this cust
-    - doc ['signoff'](doc_type) ['BW Offshore T&M - Extension (3)'](project_name) ['The Industrial Group '](customer_name)
-    - bring ['signoff'](doc_type) document of the ['BW Offshore T&M - Extension (3)'](project_name) project done for ['The Industrial Group '](customer_name) this customer
-    - bring ['signoff'](doc_type) doc of ['BW Offshore T&M - Extension (3)'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
-    - doc ['Cutover'](doc_type) ['BW Offshore T&M - Extension (3)'](project_name) ['The Industrial Group '](customer_name)
-    - bring ['Cutover'](doc_type) document of the ['BW Offshore T&M - Extension (3)'](project_name) project done for ['The Industrial Group '](customer_name) this customer
-    - bring ['Cutover'](doc_type) doc of ['BW Offshore T&M - Extension (3)'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
-    - doc ['User manual'](doc_type) ['BW Offshore T&M - Extension (3)'](project_name) ['The Industrial Group '](customer_name)
-    - bring ['User manual'](doc_type) document of the ['BW Offshore T&M - Extension (3)'](project_name) project done for ['The Industrial Group '](customer_name) this customer
-    - bring ['User manual'](doc_type) doc of ['BW Offshore T&M - Extension (3)'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
-    - doc ['UM'](doc_type) ['BW Offshore T&M - Extension (3)'](project_name) ['The Industrial Group '](customer_name)
-    - bring ['UM'](doc_type) document of the ['BW Offshore T&M - Extension (3)'](project_name) project done for ['The Industrial Group '](customer_name) this customer
-    - bring ['UM'](doc_type) doc of ['BW Offshore T&M - Extension (3)'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
+    - doc ['signoff'](doc_type) ['BW Offshore T&M - Extension'](project_name) ['The Industrial Group '](customer_name)
+    - bring ['signoff'](doc_type) document of the ['BW Offshore T&M - Extension'](project_name) project done for ['The Industrial Group '](customer_name) this customer
+    - bring ['signoff'](doc_type) doc of ['BW Offshore T&M - Extension'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
+    - doc ['Cutover'](doc_type) ['BW Offshore T&M - Extension'](project_name) ['The Industrial Group '](customer_name)
+    - bring ['Cutover'](doc_type) document of the ['BW Offshore T&M - Extension'](project_name) project done for ['The Industrial Group '](customer_name) this customer
+    - bring ['Cutover'](doc_type) doc of ['BW Offshore T&M - Extension'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
+    - doc ['User manual'](doc_type) ['BW Offshore T&M - Extension'](project_name) ['The Industrial Group '](customer_name)
+    - bring ['User manual'](doc_type) document of the ['BW Offshore T&M - Extension'](project_name) project done for ['The Industrial Group '](customer_name) this customer
+    - bring ['User manual'](doc_type) doc of ['BW Offshore T&M - Extension'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
+    - doc ['UM'](doc_type) ['BW Offshore T&M - Extension'](project_name) ['The Industrial Group '](customer_name)
+    - bring ['UM'](doc_type) document of the ['BW Offshore T&M - Extension'](project_name) project done for ['The Industrial Group '](customer_name) this customer
+    - bring ['UM'](doc_type) doc of ['BW Offshore T&M - Extension'](project_name) prjct done for ['The Industrial Group '](customer_name) this cust
     - doc ['signoff'](doc_type) ['BI, BW & BO Support'](project_name) ['Al Rahji'](customer_name)
     - bring ['signoff'](doc_type) document of the ['BI, BW & BO Support'](project_name) project done for ['Al Rahji'](customer_name) this customer
     - bring ['signoff'](doc_type) doc of ['BI, BW & BO Support'](project_name) prjct done for ['Al Rahji'](customer_name) this cust
@@ -4864,18 +4864,18 @@ nlu:
     - doc ['UM'](doc_type) ['Solution Manager Implementation'](project_name) ['NWC'](customer_name)
     - bring ['UM'](doc_type) document of the ['Solution Manager Implementation'](project_name) project done for ['NWC'](customer_name) this customer
     - bring ['UM'](doc_type) doc of ['Solution Manager Implementation'](project_name) prjct done for ['NWC'](customer_name) this cust
-    - doc ['signoff'](doc_type) ['Bar Code Solutions Systems (C4C)'](project_name) ['OARC'](customer_name)
-    - bring ['signoff'](doc_type) document of the ['Bar Code Solutions Systems (C4C)'](project_name) project done for ['OARC'](customer_name) this customer
-    - bring ['signoff'](doc_type) doc of ['Bar Code Solutions Systems (C4C)'](project_name) prjct done for ['OARC'](customer_name) this cust
-    - doc ['Cutover'](doc_type) ['Bar Code Solutions Systems (C4C)'](project_name) ['OARC'](customer_name)
-    - bring ['Cutover'](doc_type) document of the ['Bar Code Solutions Systems (C4C)'](project_name) project done for ['OARC'](customer_name) this customer
-    - bring ['Cutover'](doc_type) doc of ['Bar Code Solutions Systems (C4C)'](project_name) prjct done for ['OARC'](customer_name) this cust
-    - doc ['User manual'](doc_type) ['Bar Code Solutions Systems (C4C)'](project_name) ['OARC'](customer_name)
-    - bring ['User manual'](doc_type) document of the ['Bar Code Solutions Systems (C4C)'](project_name) project done for ['OARC'](customer_name) this customer
-    - bring ['User manual'](doc_type) doc of ['Bar Code Solutions Systems (C4C)'](project_name) prjct done for ['OARC'](customer_name) this cust
-    - doc ['UM'](doc_type) ['Bar Code Solutions Systems (C4C)'](project_name) ['OARC'](customer_name)
-    - bring ['UM'](doc_type) document of the ['Bar Code Solutions Systems (C4C)'](project_name) project done for ['OARC'](customer_name) this customer
-    - bring ['UM'](doc_type) doc of ['Bar Code Solutions Systems (C4C)'](project_name) prjct done for ['OARC'](customer_name) this cust
+    - doc ['signoff'](doc_type) ['Bar Code Solutions Systems'](project_name) ['OARC'](customer_name)
+    - bring ['signoff'](doc_type) document of the ['Bar Code Solutions Systems'](project_name) project done for ['OARC'](customer_name) this customer
+    - bring ['signoff'](doc_type) doc of ['Bar Code Solutions Systems'](project_name) prjct done for ['OARC'](customer_name) this cust
+    - doc ['Cutover'](doc_type) ['Bar Code Solutions Systems'](project_name) ['OARC'](customer_name)
+    - bring ['Cutover'](doc_type) document of the ['Bar Code Solutions Systems'](project_name) project done for ['OARC'](customer_name) this customer
+    - bring ['Cutover'](doc_type) doc of ['Bar Code Solutions Systems'](project_name) prjct done for ['OARC'](customer_name) this cust
+    - doc ['User manual'](doc_type) ['Bar Code Solutions Systems'](project_name) ['OARC'](customer_name)
+    - bring ['User manual'](doc_type) document of the ['Bar Code Solutions Systems'](project_name) project done for ['OARC'](customer_name) this customer
+    - bring ['User manual'](doc_type) doc of ['Bar Code Solutions Systems'](project_name) prjct done for ['OARC'](customer_name) this cust
+    - doc ['UM'](doc_type) ['Bar Code Solutions Systems'](project_name) ['OARC'](customer_name)
+    - bring ['UM'](doc_type) document of the ['Bar Code Solutions Systems'](project_name) project done for ['OARC'](customer_name) this customer
+    - bring ['UM'](doc_type) doc of ['Bar Code Solutions Systems'](project_name) prjct done for ['OARC'](customer_name) this cust
     - doc ['signoff'](doc_type) ['Conares Support'](project_name) ['S.A.O.G'](customer_name)
     - bring ['signoff'](doc_type) document of the ['Conares Support'](project_name) project done for ['S.A.O.G'](customer_name) this customer
     - bring ['signoff'](doc_type) doc of ['Conares Support'](project_name) prjct done for ['S.A.O.G'](customer_name) this cust
@@ -5153,26 +5153,32 @@ nlu:
     - bring ['UM'](doc_type) document of the ['E-commerce marketplace'](project_name) project done for ['Kuwait Steel'](customer_name) this customer
     - bring ['UM'](doc_type) doc of ['E-commerce marketplace'](project_name) prjct done for ['Kuwait Steel'](customer_name) this cust
 
-- intent: tech_project_list_intent
+- intent: tech_cust_project_list_intent
   examples: |
     - show me the project of the [S/4HANA](tech_stack) done for [Abdul Latif Jameel Co. ltd](customer_name)
     - fetch all the [S/4HANA](tech_stack) projects done for [Abdul Latif Jameel Co. ltd](customer_name)
     - please bring me the project done on [S/4HANA](tech_stack) of [Abdul Latif Jameel Co. ltd](customer_name)
-    - show me the project of the [SAP ECC (ERP Central Component)](tech_stack) done for [Abu Dhabi Gas Liquefaction Company](customer_name)
-    - fetch all the [SAP ECC (ERP Central Component)](tech_stack) projects done for [Abu Dhabi Gas Liquefaction Company](customer_name)
-    - please bring me the project done on [SAP ECC (ERP Central Component)](tech_stack) of [Abu Dhabi Gas Liquefaction Company](customer_name)
+    - show me the project of the [SAP ECC](tech_stack) done for [Abu Dhabi Gas Liquefaction Company](customer_name)
+    - fetch all the [SAP ECC](tech_stack) projects done for [Abu Dhabi Gas Liquefaction Company](customer_name)
+    - please bring me the project done on [SAP ECC](tech_stack) of [Abu Dhabi Gas Liquefaction Company](customer_name)
     - show me the project of the [ECC](tech_stack) done for [Abu Dhabi National Oil Company](customer_name)
     - fetch all the [ECC](tech_stack) projects done for [Abu Dhabi National Oil Company](customer_name)
     - please bring me the project done on [ECC](tech_stack) of [Abu Dhabi National Oil Company](customer_name)
-    - show me the project of the [SAP BusinessObjects BI (BOBJ)](tech_stack) done for [Abu Dhabi National Tanker Co](customer_name)
-    - fetch all the [SAP BusinessObjects BI (BOBJ)](tech_stack) projects done for [Abu Dhabi National Tanker Co](customer_name)
-    - please bring me the project done on [SAP BusinessObjects BI (BOBJ)](tech_stack) of [Abu Dhabi National Tanker Co](customer_name)
+    - show me the project of the [SAP BusinessObjects BI](tech_stack) done for [Abu Dhabi National Tanker Co](customer_name)
+    - show me the project of the [SAP BOBJ](tech_stack) done for [Abu Dhabi National Tanker Co](customer_name)
+    - fetch all the [SAP BusinessObjects BI](tech_stack) projects done for [Abu Dhabi National Tanker Co](customer_name)
+    - fetch all the [SAP BOBJ](tech_stack) projects done for [Abu Dhabi National Tanker Co](customer_name)
+    - please bring me the project done on [SAP BusinessObjects BI](tech_stack) of [Abu Dhabi National Tanker Co](customer_name)
+    - please bring me the project done on [SAP BOBJ](tech_stack) of [Abu Dhabi National Tanker Co](customer_name)
     - show me the project of the [BOBJ](tech_stack) done for [Abuljadayel Baverages Inc](customer_name)
     - fetch all the [BOBJ](tech_stack) projects done for [Abuljadayel Baverages Inc](customer_name)
     - please bring me the project done on [BOBJ](tech_stack) of [Abuljadayel Baverages Inc](customer_name)
-    - show me the project of the [SAP BW (Business Warehouse)](tech_stack) done for [Abunayyan Holding](customer_name)
-    - fetch all the [SAP BW (Business Warehouse)](tech_stack) projects done for [Abunayyan Holding](customer_name)
-    - please bring me the project done on [SAP BW (Business Warehouse)](tech_stack) of [Abunayyan Holding](customer_name)
+    - show me the project of the [SAP BW](tech_stack) done for [Abunayyan Holding](customer_name)
+    - show me the project of the [SAP Business Warehouse](tech_stack) done for [Abunayyan Holding](customer_name)
+    - fetch all the [SAP BW](tech_stack) projects done for [Abunayyan Holding](customer_name)
+    - fetch all the [SAP Business Warehouse](tech_stack) projects done for [Abunayyan Holding](customer_name)
+    - please bring me the project done on [SAP BW](tech_stack) of [Abunayyan Holding](customer_name)
+    - please bring me the project done on [SAP Business Warehouse](tech_stack) of [Abunayyan Holding](customer_name)
     - show me the project of the [BW](tech_stack) done for [ABYAT](customer_name)
     - fetch all the [BW](tech_stack) projects done for [ABYAT](customer_name)
     - please bring me the project done on [BW](tech_stack) of [ABYAT](customer_name)
@@ -5200,15 +5206,18 @@ nlu:
     - show me the project of the [HANA](tech_stack) done for [AL Fanar](customer_name)
     - fetch all the [HANA](tech_stack) projects done for [AL Fanar](customer_name)
     - please bring me the project done on [HANA](tech_stack) of [AL Fanar](customer_name)
-    - show me the project of the [SAP ASE (Adaptive Server Enterprise)](tech_stack) done for [Al Forsan Global Industrial Complex](customer_name)
-    - fetch all the [SAP ASE (Adaptive Server Enterprise)](tech_stack) projects done for [Al Forsan Global Industrial Complex](customer_name)
-    - please bring me the project done on [SAP ASE (Adaptive Server Enterprise)](tech_stack) of [Al Forsan Global Industrial Complex](customer_name)
+    - show me the project of the [SAP ASE](tech_stack) done for [Al Forsan Global Industrial Complex](customer_name)
+    - fetch all the [SAP ASE](tech_stack) projects done for [Al Forsan Global Industrial Complex](customer_name)
+    - please bring me the project done on [SAP ASE](tech_stack) of [Al Forsan Global Industrial Complex](customer_name)
     - show me the project of the [ASE](tech_stack) done for [Al Hosn Gas](customer_name)
     - fetch all the [ASE](tech_stack) projects done for [Al Hosn Gas](customer_name)
     - please bring me the project done on [ASE](tech_stack) of [Al Hosn Gas](customer_name)
-    - show me the project of the [SAP IQ (Sybase IQ)](tech_stack) done for [Al Ittefaq Steel Products Company](customer_name)
-    - fetch all the [SAP IQ (Sybase IQ)](tech_stack) projects done for [Al Ittefaq Steel Products Company](customer_name)
-    - please bring me the project done on [SAP IQ (Sybase IQ)](tech_stack) of [Al Ittefaq Steel Products Company](customer_name)
+    - show me the project of the [SAP IQ](tech_stack) done for [Al Ittefaq Steel Products Company](customer_name)
+    - show me the project of the [SAP Sybase IQ](tech_stack) done for [Al Ittefaq Steel Products Company](customer_name)
+    - fetch all the [SAP IQ](tech_stack) projects done for [Al Ittefaq Steel Products Company](customer_name)
+    - fetch all the [SAP Sybase IQ](tech_stack) projects done for [Al Ittefaq Steel Products Company](customer_name)
+    - please bring me the project done on [SAP IQ](tech_stack) of [Al Ittefaq Steel Products Company](customer_name)
+    - please bring me the project done on [SAP Sybase IQ](tech_stack) of [Al Ittefaq Steel Products Company](customer_name)
     - show me the project of the [IQ](tech_stack) done for [Al Kabli Trading Company](customer_name)
     - fetch all the [IQ](tech_stack) projects done for [Al Kabli Trading Company](customer_name)
     - please bring me the project done on [IQ](tech_stack) of [Al Kabli Trading Company](customer_name)
@@ -5224,9 +5233,12 @@ nlu:
     - show me the project of the [Information Steward](tech_stack) done for [Al Kifah Holding Company](customer_name)
     - fetch all the [Information Steward](tech_stack) projects done for [Al Kifah Holding Company](customer_name)
     - please bring me the project done on [Information Steward](tech_stack) of [Al Kifah Holding Company](customer_name)
-    - show me the project of the [SAP Customer Experience (CX)](tech_stack) done for [Al Mazroui Technologies](customer_name)
-    - fetch all the [SAP Customer Experience (CX)](tech_stack) projects done for [Al Mazroui Technologies](customer_name)
-    - please bring me the project done on [SAP Customer Experience (CX)](tech_stack) of [Al Mazroui Technologies](customer_name)
+    - show me the project of the [SAP Customer Experience](tech_stack) done for [Al Mazroui Technologies](customer_name)
+    - show me the project of the [SAP CX](tech_stack) done for [Al Mazroui Technologies](customer_name)
+    - fetch all the [SAP Customer Experience](tech_stack) projects done for [Al Mazroui Technologies](customer_name)
+    - fetch all the [SAP CX](tech_stack) projects done for [Al Mazroui Technologies](customer_name)
+    - please bring me the project done on [SAP Customer Experience](tech_stack) of [Al Mazroui Technologies](customer_name)
+    - please bring me the project done on [SAP CX](tech_stack) of [Al Mazroui Technologies](customer_name)
     - show me the project of the [SAP CX](tech_stack) done for [Al Mulla Group Holding Company](customer_name)
     - fetch all the [SAP CX](tech_stack) projects done for [Al Mulla Group Holding Company](customer_name)
     - please bring me the project done on [SAP CX](tech_stack) of [Al Mulla Group Holding Company](customer_name)
@@ -5242,9 +5254,12 @@ nlu:
     - show me the project of the [SF](tech_stack) done for [Al Raya](customer_name)
     - fetch all the [SF](tech_stack) projects done for [Al Raya](customer_name)
     - please bring me the project done on [SF](tech_stack) of [Al Raya](customer_name)
-    - show me the project of the [SAP Integrated Business Planning (IBP)](tech_stack) done for [Al Sayer](customer_name)
-    - fetch all the [SAP Integrated Business Planning (IBP)](tech_stack) projects done for [Al Sayer](customer_name)
-    - please bring me the project done on [SAP Integrated Business Planning (IBP)](tech_stack) of [Al Sayer](customer_name)
+    - show me the project of the [SAP Integrated Business Planning](tech_stack) done for [Al Sayer](customer_name)
+    - show me the project of the [SAP IBP](tech_stack) done for [Al Sayer](customer_name)
+    - fetch all the [SAP Integrated Business Planning](tech_stack) projects done for [Al Sayer](customer_name)
+    - fetch all the [SAP IBP](tech_stack) projects done for [Al Sayer](customer_name)
+    - please bring me the project done on [SAP Integrated Business Planning](tech_stack) of [Al Sayer](customer_name)
+    - please bring me the project done on [SAP IBP](tech_stack) of [Al Sayer](customer_name)
     - show me the project of the [IBP](tech_stack) done for [Al Tuwairqi Group of Companies](customer_name)
     - fetch all the [IBP](tech_stack) projects done for [Al Tuwairqi Group of Companies](customer_name)
     - please bring me the project done on [IBP](tech_stack) of [Al Tuwairqi Group of Companies](customer_name)
@@ -5314,9 +5329,9 @@ nlu:
     - show me the project of the [Leonardo](tech_stack) done for [Batleco](customer_name)
     - fetch all the [Leonardo](tech_stack) projects done for [Batleco](customer_name)
     - please bring me the project done on [Leonardo](tech_stack) of [Batleco](customer_name)
-    - show me the project of the [SAP GRC (Governance, Risk, and Compliance)](tech_stack) done for [Benjamin Moore & Co.](customer_name)
-    - fetch all the [SAP GRC (Governance, Risk, and Compliance)](tech_stack) projects done for [Benjamin Moore & Co.](customer_name)
-    - please bring me the project done on [SAP GRC (Governance, Risk, and Compliance)](tech_stack) of [Benjamin Moore & Co.](customer_name)
+    - show me the project of the [SAP GRC](tech_stack) done for [Benjamin Moore & Co.](customer_name)
+    - fetch all the [SAP GRC](tech_stack) projects done for [Benjamin Moore & Co.](customer_name)
+    - please bring me the project done on [SAP GRC](tech_stack) of [Benjamin Moore & Co.](customer_name)
     - show me the project of the [GRC](tech_stack) done for [BIG SRO](customer_name)
     - fetch all the [GRC](tech_stack) projects done for [BIG SRO](customer_name)
     - please bring me the project done on [GRC](tech_stack) of [BIG SRO](customer_name)
@@ -5362,9 +5377,12 @@ nlu:
     - show me the project of the [Cloud Integration](tech_stack) done for [First Group](customer_name)
     - fetch all the [Cloud Integration](tech_stack) projects done for [First Group](customer_name)
     - please bring me the project done on [Cloud Integration](tech_stack) of [First Group](customer_name)
-    - show me the project of the [SAP PI/PO (Process Integration/Process Orchestration)](tech_stack) done for [First National Operations & Maintenance Co.Ltd.](customer_name)
-    - fetch all the [SAP PI/PO (Process Integration/Process Orchestration)](tech_stack) projects done for [First National Operations & Maintenance Co.Ltd.](customer_name)
-    - please bring me the project done on [SAP PI/PO (Process Integration/Process Orchestration)](tech_stack) of [First National Operations & Maintenance Co.Ltd.](customer_name)
+    - show me the project of the [SAP PI/PO](tech_stack) done for [First National Operations & Maintenance Co.Ltd.](customer_name)
+    - show me the project of the [SAP Process Integration/Process Orchestration](tech_stack) done for [First National Operations & Maintenance Co.Ltd.](customer_name)
+    - fetch all the [SAP PI/PO](tech_stack) projects done for [First National Operations & Maintenance Co.Ltd.](customer_name)
+    - fetch all the [SAP Process Integration/Process Orchestration](tech_stack) projects done for [First National Operations & Maintenance Co.Ltd.](customer_name)
+    - please bring me the project done on [SAP PI/PO](tech_stack) of [First National Operations & Maintenance Co.Ltd.](customer_name)
+    - please bring me the project done on [SAP Process Integration/Process Orchestration](tech_stack) of [First National Operations & Maintenance Co.Ltd.](customer_name)
     - show me the project of the [PI/PO](tech_stack) done for [First Solar](customer_name)
     - fetch all the [PI/PO](tech_stack) projects done for [First Solar](customer_name)
     - please bring me the project done on [PI/PO](tech_stack) of [First Solar](customer_name)
@@ -5518,9 +5536,12 @@ nlu:
     - could you please show [Oman Steel Co](customer_name) - [OpenNebula](tech_stack) - projects
     - get me the [OpenNebula](tech_stack) projects done for [Oman Steel Co](customer_name)
     - list the [Oman Steel Co](customer_name) [OpenNebula](tech_stack) projects 
-    - could you please show [OnCost](customer_name) - [Open vSwitch (OVS)](tech_stack) - projects
-    - get me the [Open vSwitch (OVS)](tech_stack) projects done for [OnCost](customer_name)
-    - list the [OnCost](customer_name) [Open vSwitch (OVS)](tech_stack) projects 
+    - could you please show [OnCost](customer_name) - [Open vSwitch](tech_stack) - projects
+    - could you please show [OnCost](customer_name) - [OVS](tech_stack) - projects
+    - get me the [Open vSwitch](tech_stack) projects done for [OnCost](customer_name)
+    - get me the [OVS](tech_stack) projects done for [OnCost](customer_name)
+    - list the [OnCost](customer_name) [Open vSwitch](tech_stack) projects 
+    - list the [OnCost](customer_name) [OVS](tech_stack) projects 
     - could you please show [OryxGTL](customer_name) - [OpenDaylight](tech_stack) - projects
     - get me the [OpenDaylight](tech_stack) projects done for [OryxGTL](customer_name)
     - list the [OryxGTL](customer_name) [OpenDaylight](tech_stack) projects 
@@ -5542,9 +5563,9 @@ nlu:
     - could you please show [Powertech Engineering LLC](customer_name) - [Grafana](tech_stack) - projects
     - get me the [Grafana](tech_stack) projects done for [Powertech Engineering LLC](customer_name)
     - list the [Powertech Engineering LLC](customer_name) [Grafana](tech_stack) projects 
-    - could you please show [Precot Meridien](customer_name) - [ELK Stack (Elasticsearch, Logstash, Kibana)](tech_stack) - projects
-    - get me the [ELK Stack (Elasticsearch, Logstash, Kibana)](tech_stack) projects done for [Precot Meridien](customer_name)
-    - list the [Precot Meridien](customer_name) [ELK Stack (Elasticsearch, Logstash, Kibana)](tech_stack) projects 
+    - could you please show [Precot Meridien](customer_name) - [ELK Stack](tech_stack) - projects
+    - get me the [ELK Stack](tech_stack) projects done for [Precot Meridien](customer_name)
+    - list the [Precot Meridien](customer_name) [ELK Stack](tech_stack) projects 
     - could you please show [Qarat Al Minh Petroleum](customer_name) - [Zabbix](tech_stack) - projects
     - get me the [Zabbix](tech_stack) projects done for [Qarat Al Minh Petroleum](customer_name)
     - list the [Qarat Al Minh Petroleum](customer_name) [Zabbix](tech_stack) projects 
@@ -5677,268 +5698,274 @@ nlu:
     - could you please show [STRATA Manufacturing](customer_name) - [Harbor](tech_stack) - projects
     - get me the [Harbor](tech_stack) projects done for [STRATA Manufacturing](customer_name)
     - list the [STRATA Manufacturing](customer_name) [Harbor](tech_stack) projects 
-    - stack [Docker Registry](tech_tack) projects from [Sudair Pharma Company](customer_name)
-    - bring all the projects of the [Docker Registry](tech_tack) project done for [Sudair Pharma Company](customer_name) this customer
-    - bring all of [Docker Registry](tech_tack) prjct done for [Sudair Pharma Company](customer_name) this cust
-    - stack [Quay](tech_tack) projects from [Suez - Tractebel Operation and Maintenance Oman LLC.](customer_name)
-    - bring all the projects of the [Quay](tech_tack) project done for [Suez - Tractebel Operation and Maintenance Oman LLC.](customer_name) this customer
-    - bring all of [Quay](tech_tack) prjct done for [Suez - Tractebel Operation and Maintenance Oman LLC.](customer_name) this cust
-    - stack [Nexus Repository](tech_tack) projects from [Suhail Bahwan Automobiles LLC](customer_name)
-    - bring all the projects of the [Nexus Repository](tech_tack) project done for [Suhail Bahwan Automobiles LLC](customer_name) this customer
-    - bring all of [Nexus Repository](tech_tack) prjct done for [Suhail Bahwan Automobiles LLC](customer_name) this cust
-    - stack [Apache Spark](tech_tack) projects from [SunShine school Dammam](customer_name)
-    - bring all the projects of the [Apache Spark](tech_tack) project done for [SunShine school Dammam](customer_name) this customer
-    - bring all of [Apache Spark](tech_tack) prjct done for [SunShine school Dammam](customer_name) this cust
-    - stack [Apache Flink](tech_tack) projects from [Supreme Foods](customer_name)
-    - bring all the projects of the [Apache Flink](tech_tack) project done for [Supreme Foods](customer_name) this customer
-    - bring all of [Apache Flink](tech_tack) prjct done for [Supreme Foods](customer_name) this cust
-    - stack [Apache Kafka](tech_tack) projects from [Systems of Strategic Business Solutions](customer_name)
-    - bring all the projects of the [Apache Kafka](tech_tack) project done for [Systems of Strategic Business Solutions](customer_name) this customer
-    - bring all of [Apache Kafka](tech_tack) prjct done for [Systems of Strategic Business Solutions](customer_name) this cust
-    - stack [Airflow](tech_tack) projects from [Tailwyndz LLC](customer_name)
-    - bring all the projects of the [Airflow](tech_tack) project done for [Tailwyndz LLC](customer_name) this customer
-    - bring all of [Airflow](tech_tack) prjct done for [Tailwyndz LLC](customer_name) this cust
-    - stack [Dask](tech_tack) projects from [Take Solutions](customer_name)
-    - bring all the projects of the [Dask](tech_tack) project done for [Take Solutions](customer_name) this customer
-    - bring all of [Dask](tech_tack) prjct done for [Take Solutions](customer_name) this cust
-    - stack [Pandas](tech_tack) projects from [Tamouh Investments LLC](customer_name)
-    - bring all the projects of the [Pandas](tech_tack) project done for [Tamouh Investments LLC](customer_name) this customer
-    - bring all of [Pandas](tech_tack) prjct done for [Tamouh Investments LLC](customer_name) this cust
-    - stack [NumPy](tech_tack) projects from [TEO](customer_name)
-    - bring all the projects of the [NumPy](tech_tack) project done for [TEO](customer_name) this customer
-    - bring all of [NumPy](tech_tack) prjct done for [TEO](customer_name) this cust
-    - stack [SciPy](tech_tack) projects from [The Industrial Group](customer_name)
-    - bring all the projects of the [SciPy](tech_tack) project done for [The Industrial Group](customer_name) this customer
-    - bring all of [SciPy](tech_tack) prjct done for [The Industrial Group](customer_name) this cust
-    - stack [Scikit-learn](tech_tack) projects from [The National Petrochemical Industrial Co](customer_name)
-    - bring all the projects of the [Scikit-learn](tech_tack) project done for [The National Petrochemical Industrial Co](customer_name) this customer
-    - bring all of [Scikit-learn](tech_tack) prjct done for [The National Petrochemical Industrial Co](customer_name) this cust
-    - stack [TensorFlow](tech_tack) projects from [Transtech Transformers LLC](customer_name)
-    - bring all the projects of the [TensorFlow](tech_tack) project done for [Transtech Transformers LLC](customer_name) this customer
-    - bring all of [TensorFlow](tech_tack) prjct done for [Transtech Transformers LLC](customer_name) this cust
-    - stack [PyTorch](tech_tack) projects from [Travis Mathew/Callaway Golf2](customer_name)
-    - bring all the projects of the [PyTorch](tech_tack) project done for [Travis Mathew/Callaway Golf2](customer_name) this customer
-    - bring all of [PyTorch](tech_tack) prjct done for [Travis Mathew/Callaway Golf2](customer_name) this cust
-    - stack [Jupyter Notebooks](tech_tack) projects from [T-System](customer_name)
-    - bring all the projects of the [Jupyter Notebooks](tech_tack) project done for [T-System](customer_name) this customer
-    - bring all of [Jupyter Notebooks](tech_tack) prjct done for [T-System](customer_name) this cust
-    - stack [Apache Zeppelin](tech_tack) projects from [TVH India](customer_name)
-    - bring all the projects of the [Apache Zeppelin](tech_tack) project done for [TVH India](customer_name) this customer
-    - bring all of [Apache Zeppelin](tech_tack) prjct done for [TVH India](customer_name) this cust
-    - stack [Apache Nifi](tech_tack) projects from [Umm Al Houl Power](customer_name)
-    - bring all the projects of the [Apache Nifi](tech_tack) project done for [Umm Al Houl Power](customer_name) this customer
-    - bring all of [Apache Nifi](tech_tack) prjct done for [Umm Al Houl Power](customer_name) this cust
-    - stack [Hadoop](tech_tack) projects from [United Foods](customer_name)
-    - bring all the projects of the [Hadoop](tech_tack) project done for [United Foods](customer_name) this customer
-    - bring all of [Hadoop](tech_tack) prjct done for [United Foods](customer_name) this cust
-    - stack [Hive](tech_tack) projects from [United Steel Industrial Company](customer_name)
-    - bring all the projects of the [Hive](tech_tack) project done for [United Steel Industrial Company](customer_name) this customer
-    - bring all of [Hive](tech_tack) prjct done for [United Steel Industrial Company](customer_name) this cust
-    - stack [PrestoDB](tech_tack) projects from [Univar Europe Ltd](customer_name)
-    - bring all the projects of the [PrestoDB](tech_tack) project done for [Univar Europe Ltd](customer_name) this customer
-    - bring all of [PrestoDB](tech_tack) prjct done for [Univar Europe Ltd](customer_name) this cust
-    - stack [Tableau](tech_tack) projects from [Updater Services India Private Limited](customer_name)
-    - bring all the projects of the [Tableau](tech_tack) project done for [Updater Services India Private Limited](customer_name) this customer
-    - bring all of [Tableau](tech_tack) prjct done for [Updater Services India Private Limited](customer_name) this cust
-    - stack [QlikView](tech_tack) projects from [UST Global](customer_name)
-    - bring all the projects of the [QlikView](tech_tack) project done for [UST Global](customer_name) this customer
-    - bring all of [QlikView](tech_tack) prjct done for [UST Global](customer_name) this cust
-    - stack [Looker](tech_tack) projects from [UST Global- Lennox](customer_name)
-    - bring all the projects of the [Looker](tech_tack) project done for [UST Global- Lennox](customer_name) this customer
-    - bring all of [Looker](tech_tack) prjct done for [UST Global- Lennox](customer_name) this cust
-    - stack [Power BI](tech_tack) projects from [UTOPIA Global Inc](customer_name)
-    - bring all the projects of the [Power BI](tech_tack) project done for [UTOPIA Global Inc](customer_name) this customer
-    - bring all of [Power BI](tech_tack) prjct done for [UTOPIA Global Inc](customer_name) this cust
-    - stack [Plotly](tech_tack) projects from [VGN Property Developers Pvt. Ltd](customer_name)
-    - bring all the projects of the [Plotly](tech_tack) project done for [VGN Property Developers Pvt. Ltd](customer_name) this customer
-    - bring all of [Plotly](tech_tack) prjct done for [VGN Property Developers Pvt. Ltd](customer_name) this cust
-    - stack [Gephi](tech_tack) projects from [Virtusa Software Services](customer_name)
-    - bring all the projects of the [Gephi](tech_tack) project done for [Virtusa Software Services](customer_name) this customer
-    - bring all of [Gephi](tech_tack) prjct done for [Virtusa Software Services](customer_name) this cust
-    - stack [Matplotlib](tech_tack) projects from [Virtusa-Astrazeneca](customer_name)
-    - bring all the projects of the [Matplotlib](tech_tack) project done for [Virtusa-Astrazeneca](customer_name) this customer
-    - bring all of [Matplotlib](tech_tack) prjct done for [Virtusa-Astrazeneca](customer_name) this cust
-    - stack [Seaborn](tech_tack) projects from [WABCO India Limited](customer_name)
-    - bring all the projects of the [Seaborn](tech_tack) project done for [WABCO India Limited](customer_name) this customer
-    - bring all of [Seaborn](tech_tack) prjct done for [WABCO India Limited](customer_name) this cust
-    - stack [Bokeh](tech_tack) projects from [Wheels India Limited](customer_name)
-    - bring all the projects of the [Bokeh](tech_tack) project done for [Wheels India Limited](customer_name) this customer
-    - bring all of [Bokeh](tech_tack) prjct done for [Wheels India Limited](customer_name) this cust
-    - stack [Dash](tech_tack) projects from [Xerox](customer_name)
-    - bring all the projects of the [Dash](tech_tack) project done for [Xerox](customer_name) this customer
-    - bring all of [Dash](tech_tack) prjct done for [Xerox](customer_name) this cust
-    - stack [Metabase](tech_tack) projects from [YG-1](customer_name)
-    - bring all the projects of the [Metabase](tech_tack) project done for [YG-1](customer_name) this customer
-    - bring all of [Metabase](tech_tack) prjct done for [YG-1](customer_name) this cust
-    - stack [Grafana](tech_tack) projects from [Yokshire Project](customer_name)
-    - bring all the projects of the [Grafana](tech_tack) project done for [Yokshire Project](customer_name) this customer
-    - bring all of [Grafana](tech_tack) prjct done for [Yokshire Project](customer_name) this cust
-    - stack [Flask](tech_tack) projects from [Zain](customer_name)
-    - bring all the projects of the [Flask](tech_tack) project done for [Zain](customer_name) this customer
-    - bring all of [Flask](tech_tack) prjct done for [Zain](customer_name) this cust
-    - stack [Django](tech_tack) projects from [Zeckelmen](customer_name)
-    - bring all the projects of the [Django](tech_tack) project done for [Zeckelmen](customer_name) this customer
-    - bring all of [Django](tech_tack) prjct done for [Zeckelmen](customer_name) this cust
-    - stack [Node.js](tech_tack) projects from [Zeoits](customer_name)
-    - bring all the projects of the [Node.js](tech_tack) project done for [Zeoits](customer_name) this customer
-    - bring all of [Node.js](tech_tack) prjct done for [Zeoits](customer_name) this cust
-    - stack [Express.js](tech_tack) projects from [The Industrial Group](customer_name)
-    - bring all the projects of the [Express.js](tech_tack) project done for [The Industrial Group](customer_name) this customer
-    - bring all of [Express.js](tech_tack) prjct done for [The Industrial Group](customer_name) this cust
-    - stack [React](tech_tack) projects from [Al Rahji](customer_name)
-    - bring all the projects of the [React](tech_tack) project done for [Al Rahji](customer_name) this customer
-    - bring all of [React](tech_tack) prjct done for [Al Rahji](customer_name) this cust
-    - stack [Vue.js](tech_tack) projects from [Mohsin Haider Darwish](customer_name)
-    - bring all the projects of the [Vue.js](tech_tack) project done for [Mohsin Haider Darwish](customer_name) this customer
-    - bring all of [Vue.js](tech_tack) prjct done for [Mohsin Haider Darwish](customer_name) this cust
-    - stack [Angular](tech_tack) projects from [MOF](customer_name)
-    - bring all the projects of the [Angular](tech_tack) project done for [MOF](customer_name) this customer
-    - bring all of [Angular](tech_tack) prjct done for [MOF](customer_name) this cust
-    - stack [Bootstrap](tech_tack) projects from [Batelco](customer_name)
-    - bring all the projects of the [Bootstrap](tech_tack) project done for [Batelco](customer_name) this customer
-    - bring all of [Bootstrap](tech_tack) prjct done for [Batelco](customer_name) this cust
-    - stack [Tailwind CSS](tech_tack) projects from [APC](customer_name)
-    - bring all the projects of the [Tailwind CSS](tech_tack) project done for [APC](customer_name) this customer
-    - bring all of [Tailwind CSS](tech_tack) prjct done for [APC](customer_name) this cust
-    - stack [Sass](tech_tack) projects from [Sigma Paints](customer_name)
-    - bring all the projects of the [Sass](tech_tack) project done for [Sigma Paints](customer_name) this customer
-    - bring all of [Sass](tech_tack) prjct done for [Sigma Paints](customer_name) this cust
-    - stack [Webpack](tech_tack) projects from [ATCO](customer_name)
-    - bring all the projects of the [Webpack](tech_tack) project done for [ATCO](customer_name) this customer
-    - bring all of [Webpack](tech_tack) prjct done for [ATCO](customer_name) this cust
-    - stack [Chef](tech_tack) projects from [ADGAS](customer_name)
-    - bring all the projects of the [Chef](tech_tack) project done for [ADGAS](customer_name) this customer
-    - bring all of [Chef](tech_tack) prjct done for [ADGAS](customer_name) this cust
-    - stack [Puppet](tech_tack) projects from [ADNOC](customer_name)
-    - bring all the projects of the [Puppet](tech_tack) project done for [ADNOC](customer_name) this customer
-    - bring all of [Puppet](tech_tack) prjct done for [ADNOC](customer_name) this cust
-    - stack [SaltStack](tech_tack) projects from [ADNATCO](customer_name)
-    - bring all the projects of the [SaltStack](tech_tack) project done for [ADNATCO](customer_name) this customer
-    - bring all of [SaltStack](tech_tack) prjct done for [ADNATCO](customer_name) this cust
-    - stack [AWS CloudFormation](tech_tack) projects from [AZCO](customer_name)
-    - bring all the projects of the [AWS CloudFormation](tech_tack) project done for [AZCO](customer_name) this customer
-    - bring all of [AWS CloudFormation](tech_tack) prjct done for [AZCO](customer_name) this cust
-    - stack [Azure Resource Manager (ARM)](tech_tack) projects from [ISPC](customer_name)
-    - bring all the projects of the [Azure Resource Manager (ARM)](tech_tack) project done for [ISPC](customer_name) this customer
-    - bring all of [Azure Resource Manager (ARM)](tech_tack) prjct done for [ISPC](customer_name) this cust
-    - stack [HashiCorp Packer](tech_tack) projects from [AGU](customer_name)
-    - bring all the projects of the [HashiCorp Packer](tech_tack) project done for [AGU](customer_name) this customer
-    - bring all of [HashiCorp Packer](tech_tack) prjct done for [AGU](customer_name) this cust
-    - stack [HashiCorp Vault](tech_tack) projects from [ATC](customer_name)
-    - bring all the projects of the [HashiCorp Vault](tech_tack) project done for [ATC](customer_name) this customer
-    - bring all of [HashiCorp Vault](tech_tack) prjct done for [ATC](customer_name) this cust
-    - stack [MLflow](tech_tack) projects from [BDL](customer_name)
-    - bring all the projects of the [MLflow](tech_tack) project done for [BDL](customer_name) this customer
-    - bring all of [MLflow](tech_tack) prjct done for [BDL](customer_name) this cust
-    - stack [Kubeflow](tech_tack) projects from [CEPCO](customer_name)
-    - bring all the projects of the [Kubeflow](tech_tack) project done for [CEPCO](customer_name) this customer
-    - bring all of [Kubeflow](tech_tack) prjct done for [CEPCO](customer_name) this cust
-    - stack [Seldon Core](tech_tack) projects from [CGCC](customer_name)
-    - bring all the projects of the [Seldon Core](tech_tack) project done for [CGCC](customer_name) this customer
-    - bring all of [Seldon Core](tech_tack) prjct done for [CGCC](customer_name) this cust
-    - stack [Tfx](tech_tack) projects from [CCMC](customer_name)
-    - bring all the projects of the [Tfx](tech_tack) project done for [CCMC](customer_name) this customer
-    - bring all of [Tfx](tech_tack) prjct done for [CCMC](customer_name) this cust
-    - stack [DVC (Data Version Control)](tech_tack) projects from [DGDA](customer_name)
-    - bring all the projects of the [DVC (Data Version Control)](tech_tack) project done for [DGDA](customer_name) this customer
-    - bring all of [DVC (Data Version Control)](tech_tack) prjct done for [DGDA](customer_name) this cust
-    - stack [KubeFlow Pipelines](tech_tack) projects from [DUCAB](customer_name)
-    - bring all the projects of the [KubeFlow Pipelines](tech_tack) project done for [DUCAB](customer_name) this customer
-    - bring all of [KubeFlow Pipelines](tech_tack) prjct done for [DUCAB](customer_name) this cust
-    - stack [New Relic](tech_tack) projects from [Du Telecom](customer_name)
-    - bring all the projects of the [New Relic](tech_tack) project done for [Du Telecom](customer_name) this customer
-    - bring all of [New Relic](tech_tack) prjct done for [Du Telecom](customer_name) this cust
-    - stack [Datadog](tech_tack) projects from [NOMAC](customer_name)
-    - bring all the projects of the [Datadog](tech_tack) project done for [NOMAC](customer_name) this customer
-    - bring all of [Datadog](tech_tack) prjct done for [NOMAC](customer_name) this cust
-    - stack [Sysdig](tech_tack) projects from [GMC](customer_name)
-    - bring all the projects of the [Sysdig](tech_tack) project done for [GMC](customer_name) this customer
-    - bring all of [Sysdig](tech_tack) prjct done for [GMC](customer_name) this cust
-    - stack [Raygun](tech_tack) projects from [GOT](customer_name)
-    - bring all the projects of the [Raygun](tech_tack) project done for [GOT](customer_name) this customer
-    - bring all of [Raygun](tech_tack) prjct done for [GOT](customer_name) this cust
-    - stack [Sentry](tech_tack) projects from [GSI](customer_name)
-    - bring all the projects of the [Sentry](tech_tack) project done for [GSI](customer_name) this customer
-    - bring all of [Sentry](tech_tack) prjct done for [GSI](customer_name) this cust
-    - stack [Rancher](tech_tack) projects from [HSAG](customer_name)
-    - bring all the projects of the [Rancher](tech_tack) project done for [HSAG](customer_name) this customer
-    - bring all of [Rancher](tech_tack) prjct done for [HSAG](customer_name) this cust
-    - stack [Nomad](tech_tack) projects from [MIC](customer_name)
-    - bring all the projects of the [Nomad](tech_tack) project done for [MIC](customer_name) this customer
-    - bring all of [Nomad](tech_tack) prjct done for [MIC](customer_name) this cust
-    - stack [Containerd](tech_tack) projects from [MSE](customer_name)
-    - bring all the projects of the [Containerd](tech_tack) project done for [MSE](customer_name) this customer
-    - bring all of [Containerd](tech_tack) prjct done for [MSE](customer_name) this cust
-    - stack [Podman](tech_tack) projects from [NAFCEL](customer_name)
-    - bring all the projects of the [Podman](tech_tack) project done for [NAFCEL](customer_name) this customer
-    - bring all of [Podman](tech_tack) prjct done for [NAFCEL](customer_name) this cust
-    - stack [DBVisualizer](tech_tack) projects from [NUPCO](customer_name)
-    - bring all the projects of the [DBVisualizer](tech_tack) project done for [NUPCO](customer_name) this customer
-    - bring all of [DBVisualizer](tech_tack) prjct done for [NUPCO](customer_name) this cust
-    - stack [pgAdmin](tech_tack) projects from [NWC](customer_name)
-    - bring all the projects of the [pgAdmin](tech_tack) project done for [NWC](customer_name) this customer
-    - bring all of [pgAdmin](tech_tack) prjct done for [NWC](customer_name) this cust
-    - stack [MongoDB Compass](tech_tack) projects from [OARC](customer_name)
-    - bring all the projects of the [MongoDB Compass](tech_tack) project done for [OARC](customer_name) this customer
-    - bring all of [MongoDB Compass](tech_tack) prjct done for [OARC](customer_name) this cust
-    - stack [DataGrip](tech_tack) projects from [S.A.O.G](customer_name)
-    - bring all the projects of the [DataGrip](tech_tack) project done for [S.A.O.G](customer_name) this customer
-    - bring all of [DataGrip](tech_tack) prjct done for [S.A.O.G](customer_name) this cust
-    - stack [SQLAlchemy](tech_tack) projects from [S.A.O.C](customer_name)
-    - bring all the projects of the [SQLAlchemy](tech_tack) project done for [S.A.O.C](customer_name) this customer
-    - bring all of [SQLAlchemy](tech_tack) prjct done for [S.A.O.C](customer_name) this cust
-    - stack [Helm](tech_tack) projects from [OMC](customer_name)
-    - bring all the projects of the [Helm](tech_tack) project done for [OMC](customer_name) this customer
-    - bring all of [Helm](tech_tack) prjct done for [OMC](customer_name) this cust
-    - stack [Ceph](tech_tack) projects from [ORPIC](customer_name)
-    - bring all the projects of the [Ceph](tech_tack) project done for [ORPIC](customer_name) this customer
-    - bring all of [Ceph](tech_tack) prjct done for [ORPIC](customer_name) this cust
-    - stack [InfluxDB](tech_tack) projects from [PDO](customer_name)
-    - bring all the projects of the [InfluxDB](tech_tack) project done for [PDO](customer_name) this customer
-    - bring all of [InfluxDB](tech_tack) prjct done for [PDO](customer_name) this cust
-    - stack [Redis](tech_tack) projects from [PSI](customer_name)
-    - bring all the projects of the [Redis](tech_tack) project done for [PSI](customer_name) this customer
-    - bring all of [Redis](tech_tack) prjct done for [PSI](customer_name) this cust
-    - stack [Vagrant](tech_tack) projects from [NAKILAT](customer_name)
-    - bring all the projects of the [Vagrant](tech_tack) project done for [NAKILAT](customer_name) this customer
-    - bring all of [Vagrant](tech_tack) prjct done for [NAKILAT](customer_name) this cust
-    - stack [VirtualBox](tech_tack) projects from [QPI](customer_name)
-    - bring all the projects of the [VirtualBox](tech_tack) project done for [QPI](customer_name) this customer
-    - bring all of [VirtualBox](tech_tack) prjct done for [QPI](customer_name) this cust
-    - stack [Wireshark](tech_tack) projects from [QPMC](customer_name)
-    - bring all the projects of the [Wireshark](tech_tack) project done for [QPMC](customer_name) this customer
-    - bring all of [Wireshark](tech_tack) prjct done for [QPMC](customer_name) this cust
-    - stack [Postman](tech_tack) projects from [RGPC](customer_name)
-    - bring all the projects of the [Postman](tech_tack) project done for [RGPC](customer_name) this customer
-    - bring all of [Postman](tech_tack) prjct done for [RGPC](customer_name) this cust
-    - stack [Fiddler](tech_tack) projects from [SAUDIA](customer_name)
-    - bring all the projects of the [Fiddler](tech_tack) project done for [SAUDIA](customer_name) this customer
-    - bring all of [Fiddler](tech_tack) prjct done for [SAUDIA](customer_name) this cust
-    - stack [DBeaver](tech_tack) projects from [SAGIA](customer_name)
-    - bring all the projects of the [DBeaver](tech_tack) project done for [SAGIA](customer_name) this customer
-    - bring all of [DBeaver](tech_tack) prjct done for [SAGIA](customer_name) this cust
-    - stack [GanttProject](tech_tack) projects from [SAMREF](customer_name)
-    - bring all the projects of the [GanttProject](tech_tack) project done for [SAMREF](customer_name) this customer
-    - bring all of [GanttProject](tech_tack) prjct done for [SAMREF](customer_name) this cust
-    - stack [Gliffy](tech_tack) projects from [The Executive Office](customer_name)
-    - bring all the projects of the [Gliffy](tech_tack) project done for [The Executive Office](customer_name) this customer
-    - bring all of [Gliffy](tech_tack) prjct done for [The Executive Office](customer_name) this cust
-    - stack [Lucidchart](tech_tack) projects from [NATPET](customer_name)
-    - bring all the projects of the [Lucidchart](tech_tack) project done for [NATPET](customer_name) this customer
-    - bring all of [Lucidchart](tech_tack) prjct done for [NATPET](customer_name) this cust
-    - stack [Draw.io](tech_tack) projects from [Kuwait Steel](customer_name)
-    - bring all the projects of the [Draw.io](tech_tack) project done for [Kuwait Steel](customer_name) this customer
-    - bring all of [Draw.io](tech_tack) prjct done for [Kuwait Steel](customer_name) this cust
-    - stack [Visual studio](tech_tack) projects from [TIG](customer_name)
-    - bring all the projects of the [Visual studio](tech_tack) project done for [TIG](customer_name) this customer
-    - bring all of [Visual studio](tech_tack) prjct done for [TIG](customer_name) this cust
-    - stack [Label image tool](tech_tack) projects from [MHD](customer_name)
-    - bring all the projects of the [Label image tool](tech_tack) project done for [MHD](customer_name) this customer
-    - bring all of [Label image tool](tech_tack) prjct done for [MHD](customer_name) this cust
-    - stack [ABAP](tech_tack) projects from [TCS](customer_name)
-    - bring all the projects of the [ABAP](tech_tack) project done for [TCS](customer_name) this customer
-    - bring all of [ABAP](tech_tack) prjct done for [TCS](customer_name) this cust
-    - stack [Tableau](tech_tack) projects from [CTS](customer_name)
-    - bring all the projects of the [Tableau](tech_tack) project done for [CTS](customer_name) this customer
-    - bring all of [Tableau](tech_tack) prjct done for [CTS](customer_name) this cust
+    - stack [Docker Registry](tech_stack) projects from [Sudair Pharma Company](customer_name)
+    - bring all the projects of the [Docker Registry](tech_stack) project done for [Sudair Pharma Company](customer_name) this customer
+    - bring all of [Docker Registry](tech_stack) prjct done for [Sudair Pharma Company](customer_name) this cust
+    - stack [Quay](tech_stack) projects from [Suez - Tractebel Operation and Maintenance Oman LLC.](customer_name)
+    - bring all the projects of the [Quay](tech_stack) project done for [Suez - Tractebel Operation and Maintenance Oman LLC.](customer_name) this customer
+    - bring all of [Quay](tech_stack) prjct done for [Suez - Tractebel Operation and Maintenance Oman LLC.](customer_name) this cust
+    - stack [Nexus Repository](tech_stack) projects from [Suhail Bahwan Automobiles LLC](customer_name)
+    - bring all the projects of the [Nexus Repository](tech_stack) project done for [Suhail Bahwan Automobiles LLC](customer_name) this customer
+    - bring all of [Nexus Repository](tech_stack) prjct done for [Suhail Bahwan Automobiles LLC](customer_name) this cust
+    - stack [Apache Spark](tech_stack) projects from [SunShine school Dammam](customer_name)
+    - bring all the projects of the [Apache Spark](tech_stack) project done for [SunShine school Dammam](customer_name) this customer
+    - bring all of [Apache Spark](tech_stack) prjct done for [SunShine school Dammam](customer_name) this cust
+    - stack [Apache Flink](tech_stack) projects from [Supreme Foods](customer_name)
+    - bring all the projects of the [Apache Flink](tech_stack) project done for [Supreme Foods](customer_name) this customer
+    - bring all of [Apache Flink](tech_stack) prjct done for [Supreme Foods](customer_name) this cust
+    - stack [Apache Kafka](tech_stack) projects from [Systems of Strategic Business Solutions](customer_name)
+    - bring all the projects of the [Apache Kafka](tech_stack) project done for [Systems of Strategic Business Solutions](customer_name) this customer
+    - bring all of [Apache Kafka](tech_stack) prjct done for [Systems of Strategic Business Solutions](customer_name) this cust
+    - stack [Airflow](tech_stack) projects from [Tailwyndz LLC](customer_name)
+    - bring all the projects of the [Airflow](tech_stack) project done for [Tailwyndz LLC](customer_name) this customer
+    - bring all of [Airflow](tech_stack) prjct done for [Tailwyndz LLC](customer_name) this cust
+    - stack [Dask](tech_stack) projects from [Take Solutions](customer_name)
+    - bring all the projects of the [Dask](tech_stack) project done for [Take Solutions](customer_name) this customer
+    - bring all of [Dask](tech_stack) prjct done for [Take Solutions](customer_name) this cust
+    - stack [Pandas](tech_stack) projects from [Tamouh Investments LLC](customer_name)
+    - bring all the projects of the [Pandas](tech_stack) project done for [Tamouh Investments LLC](customer_name) this customer
+    - bring all of [Pandas](tech_stack) prjct done for [Tamouh Investments LLC](customer_name) this cust
+    - stack [NumPy](tech_stack) projects from [TEO](customer_name)
+    - bring all the projects of the [NumPy](tech_stack) project done for [TEO](customer_name) this customer
+    - bring all of [NumPy](tech_stack) prjct done for [TEO](customer_name) this cust
+    - stack [SciPy](tech_stack) projects from [The Industrial Group](customer_name)
+    - bring all the projects of the [SciPy](tech_stack) project done for [The Industrial Group](customer_name) this customer
+    - bring all of [SciPy](tech_stack) prjct done for [The Industrial Group](customer_name) this cust
+    - stack [Scikit-learn](tech_stack) projects from [The National Petrochemical Industrial Co](customer_name)
+    - bring all the projects of the [Scikit-learn](tech_stack) project done for [The National Petrochemical Industrial Co](customer_name) this customer
+    - bring all of [Scikit-learn](tech_stack) prjct done for [The National Petrochemical Industrial Co](customer_name) this cust
+    - stack [TensorFlow](tech_stack) projects from [Transtech Transformers LLC](customer_name)
+    - bring all the projects of the [TensorFlow](tech_stack) project done for [Transtech Transformers LLC](customer_name) this customer
+    - bring all of [TensorFlow](tech_stack) prjct done for [Transtech Transformers LLC](customer_name) this cust
+    - stack [PyTorch](tech_stack) projects from [Travis Mathew/Callaway Golf2](customer_name)
+    - bring all the projects of the [PyTorch](tech_stack) project done for [Travis Mathew/Callaway Golf2](customer_name) this customer
+    - bring all of [PyTorch](tech_stack) prjct done for [Travis Mathew/Callaway Golf2](customer_name) this cust
+    - stack [Jupyter Notebooks](tech_stack) projects from [T-System](customer_name)
+    - bring all the projects of the [Jupyter Notebooks](tech_stack) project done for [T-System](customer_name) this customer
+    - bring all of [Jupyter Notebooks](tech_stack) prjct done for [T-System](customer_name) this cust
+    - stack [Apache Zeppelin](tech_stack) projects from [TVH India](customer_name)
+    - bring all the projects of the [Apache Zeppelin](tech_stack) project done for [TVH India](customer_name) this customer
+    - bring all of [Apache Zeppelin](tech_stack) prjct done for [TVH India](customer_name) this cust
+    - stack [Apache Nifi](tech_stack) projects from [Umm Al Houl Power](customer_name)
+    - bring all the projects of the [Apache Nifi](tech_stack) project done for [Umm Al Houl Power](customer_name) this customer
+    - bring all of [Apache Nifi](tech_stack) prjct done for [Umm Al Houl Power](customer_name) this cust
+    - stack [Hadoop](tech_stack) projects from [United Foods](customer_name)
+    - bring all the projects of the [Hadoop](tech_stack) project done for [United Foods](customer_name) this customer
+    - bring all of [Hadoop](tech_stack) prjct done for [United Foods](customer_name) this cust
+    - stack [Hive](tech_stack) projects from [United Steel Industrial Company](customer_name)
+    - bring all the projects of the [Hive](tech_stack) project done for [United Steel Industrial Company](customer_name) this customer
+    - bring all of [Hive](tech_stack) prjct done for [United Steel Industrial Company](customer_name) this cust
+    - stack [PrestoDB](tech_stack) projects from [Univar Europe Ltd](customer_name)
+    - bring all the projects of the [PrestoDB](tech_stack) project done for [Univar Europe Ltd](customer_name) this customer
+    - bring all of [PrestoDB](tech_stack) prjct done for [Univar Europe Ltd](customer_name) this cust
+    - stack [Tableau](tech_stack) projects from [Updater Services India Private Limited](customer_name)
+    - bring all the projects of the [Tableau](tech_stack) project done for [Updater Services India Private Limited](customer_name) this customer
+    - bring all of [Tableau](tech_stack) prjct done for [Updater Services India Private Limited](customer_name) this cust
+    - stack [QlikView](tech_stack) projects from [UST Global](customer_name)
+    - bring all the projects of the [QlikView](tech_stack) project done for [UST Global](customer_name) this customer
+    - bring all of [QlikView](tech_stack) prjct done for [UST Global](customer_name) this cust
+    - stack [Looker](tech_stack) projects from [UST Global- Lennox](customer_name)
+    - bring all the projects of the [Looker](tech_stack) project done for [UST Global- Lennox](customer_name) this customer
+    - bring all of [Looker](tech_stack) prjct done for [UST Global- Lennox](customer_name) this cust
+    - stack [Power BI](tech_stack) projects from [UTOPIA Global Inc](customer_name)
+    - bring all the projects of the [Power BI](tech_stack) project done for [UTOPIA Global Inc](customer_name) this customer
+    - bring all of [Power BI](tech_stack) prjct done for [UTOPIA Global Inc](customer_name) this cust
+    - stack [Plotly](tech_stack) projects from [VGN Property Developers Pvt. Ltd](customer_name)
+    - bring all the projects of the [Plotly](tech_stack) project done for [VGN Property Developers Pvt. Ltd](customer_name) this customer
+    - bring all of [Plotly](tech_stack) prjct done for [VGN Property Developers Pvt. Ltd](customer_name) this cust
+    - stack [Gephi](tech_stack) projects from [Virtusa Software Services](customer_name)
+    - bring all the projects of the [Gephi](tech_stack) project done for [Virtusa Software Services](customer_name) this customer
+    - bring all of [Gephi](tech_stack) prjct done for [Virtusa Software Services](customer_name) this cust
+    - stack [Matplotlib](tech_stack) projects from [Virtusa-Astrazeneca](customer_name)
+    - bring all the projects of the [Matplotlib](tech_stack) project done for [Virtusa-Astrazeneca](customer_name) this customer
+    - bring all of [Matplotlib](tech_stack) prjct done for [Virtusa-Astrazeneca](customer_name) this cust
+    - stack [Seaborn](tech_stack) projects from [WABCO India Limited](customer_name)
+    - bring all the projects of the [Seaborn](tech_stack) project done for [WABCO India Limited](customer_name) this customer
+    - bring all of [Seaborn](tech_stack) prjct done for [WABCO India Limited](customer_name) this cust
+    - stack [Bokeh](tech_stack) projects from [Wheels India Limited](customer_name)
+    - bring all the projects of the [Bokeh](tech_stack) project done for [Wheels India Limited](customer_name) this customer
+    - bring all of [Bokeh](tech_stack) prjct done for [Wheels India Limited](customer_name) this cust
+    - stack [Dash](tech_stack) projects from [Xerox](customer_name)
+    - bring all the projects of the [Dash](tech_stack) project done for [Xerox](customer_name) this customer
+    - bring all of [Dash](tech_stack) prjct done for [Xerox](customer_name) this cust
+    - stack [Metabase](tech_stack) projects from [YG-1](customer_name)
+    - bring all the projects of the [Metabase](tech_stack) project done for [YG-1](customer_name) this customer
+    - bring all of [Metabase](tech_stack) prjct done for [YG-1](customer_name) this cust
+    - stack [Grafana](tech_stack) projects from [Yokshire Project](customer_name)
+    - bring all the projects of the [Grafana](tech_stack) project done for [Yokshire Project](customer_name) this customer
+    - bring all of [Grafana](tech_stack) prjct done for [Yokshire Project](customer_name) this cust
+    - stack [Flask](tech_stack) projects from [Zain](customer_name)
+    - bring all the projects of the [Flask](tech_stack) project done for [Zain](customer_name) this customer
+    - bring all of [Flask](tech_stack) prjct done for [Zain](customer_name) this cust
+    - stack [Django](tech_stack) projects from [Zeckelmen](customer_name)
+    - bring all the projects of the [Django](tech_stack) project done for [Zeckelmen](customer_name) this customer
+    - bring all of [Django](tech_stack) prjct done for [Zeckelmen](customer_name) this cust
+    - stack [Node.js](tech_stack) projects from [Zeoits](customer_name)
+    - bring all the projects of the [Node.js](tech_stack) project done for [Zeoits](customer_name) this customer
+    - bring all of [Node.js](tech_stack) prjct done for [Zeoits](customer_name) this cust
+    - stack [Express.js](tech_stack) projects from [The Industrial Group](customer_name)
+    - bring all the projects of the [Express.js](tech_stack) project done for [The Industrial Group](customer_name) this customer
+    - bring all of [Express.js](tech_stack) prjct done for [The Industrial Group](customer_name) this cust
+    - stack [React](tech_stack) projects from [Al Rahji](customer_name)
+    - bring all the projects of the [React](tech_stack) project done for [Al Rahji](customer_name) this customer
+    - bring all of [React](tech_stack) prjct done for [Al Rahji](customer_name) this cust
+    - stack [Vue.js](tech_stack) projects from [Mohsin Haider Darwish](customer_name)
+    - bring all the projects of the [Vue.js](tech_stack) project done for [Mohsin Haider Darwish](customer_name) this customer
+    - bring all of [Vue.js](tech_stack) prjct done for [Mohsin Haider Darwish](customer_name) this cust
+    - stack [Angular](tech_stack) projects from [MOF](customer_name)
+    - bring all the projects of the [Angular](tech_stack) project done for [MOF](customer_name) this customer
+    - bring all of [Angular](tech_stack) prjct done for [MOF](customer_name) this cust
+    - stack [Bootstrap](tech_stack) projects from [Batelco](customer_name)
+    - bring all the projects of the [Bootstrap](tech_stack) project done for [Batelco](customer_name) this customer
+    - bring all of [Bootstrap](tech_stack) prjct done for [Batelco](customer_name) this cust
+    - stack [Tailwind CSS](tech_stack) projects from [APC](customer_name)
+    - bring all the projects of the [Tailwind CSS](tech_stack) project done for [APC](customer_name) this customer
+    - bring all of [Tailwind CSS](tech_stack) prjct done for [APC](customer_name) this cust
+    - stack [Sass](tech_stack) projects from [Sigma Paints](customer_name)
+    - bring all the projects of the [Sass](tech_stack) project done for [Sigma Paints](customer_name) this customer
+    - bring all of [Sass](tech_stack) prjct done for [Sigma Paints](customer_name) this cust
+    - stack [Webpack](tech_stack) projects from [ATCO](customer_name)
+    - bring all the projects of the [Webpack](tech_stack) project done for [ATCO](customer_name) this customer
+    - bring all of [Webpack](tech_stack) prjct done for [ATCO](customer_name) this cust
+    - stack [Chef](tech_stack) projects from [ADGAS](customer_name)
+    - bring all the projects of the [Chef](tech_stack) project done for [ADGAS](customer_name) this customer
+    - bring all of [Chef](tech_stack) prjct done for [ADGAS](customer_name) this cust
+    - stack [Puppet](tech_stack) projects from [ADNOC](customer_name)
+    - bring all the projects of the [Puppet](tech_stack) project done for [ADNOC](customer_name) this customer
+    - bring all of [Puppet](tech_stack) prjct done for [ADNOC](customer_name) this cust
+    - stack [SaltStack](tech_stack) projects from [ADNATCO](customer_name)
+    - bring all the projects of the [SaltStack](tech_stack) project done for [ADNATCO](customer_name) this customer
+    - bring all of [SaltStack](tech_stack) prjct done for [ADNATCO](customer_name) this cust
+    - stack [AWS CloudFormation](tech_stack) projects from [AZCO](customer_name)
+    - bring all the projects of the [AWS CloudFormation](tech_stack) project done for [AZCO](customer_name) this customer
+    - bring all of [AWS CloudFormation](tech_stack) prjct done for [AZCO](customer_name) this cust
+    - stack [Azure Resource Manager](tech_stack) projects from [ISPC](customer_name)
+    - stack [ARM](tech_stack) projects from [ISPC](customer_name)
+    - bring all the projects of the [Azure Resource Manager](tech_stack) project done for [ISPC](customer_name) this customer
+    - bring all the projects of the [ARM](tech_stack) project done for [ISPC](customer_name) this customer
+    - bring all of [Azure Resource Manager](tech_stack) prjct done for [ISPC](customer_name) this cust
+    - bring all of [ARM](tech_stack) prjct done for [ISPC](customer_name) this cust
+    - stack [HashiCorp Packer](tech_stack) projects from [AGU](customer_name)
+    - bring all the projects of the [HashiCorp Packer](tech_stack) project done for [AGU](customer_name) this customer
+    - bring all of [HashiCorp Packer](tech_stack) prjct done for [AGU](customer_name) this cust
+    - stack [HashiCorp Vault](tech_stack) projects from [ATC](customer_name)
+    - bring all the projects of the [HashiCorp Vault](tech_stack) project done for [ATC](customer_name) this customer
+    - bring all of [HashiCorp Vault](tech_stack) prjct done for [ATC](customer_name) this cust
+    - stack [MLflow](tech_stack) projects from [BDL](customer_name)
+    - bring all the projects of the [MLflow](tech_stack) project done for [BDL](customer_name) this customer
+    - bring all of [MLflow](tech_stack) prjct done for [BDL](customer_name) this cust
+    - stack [Kubeflow](tech_stack) projects from [CEPCO](customer_name)
+    - bring all the projects of the [Kubeflow](tech_stack) project done for [CEPCO](customer_name) this customer
+    - bring all of [Kubeflow](tech_stack) prjct done for [CEPCO](customer_name) this cust
+    - stack [Seldon Core](tech_stack) projects from [CGCC](customer_name)
+    - bring all the projects of the [Seldon Core](tech_stack) project done for [CGCC](customer_name) this customer
+    - bring all of [Seldon Core](tech_stack) prjct done for [CGCC](customer_name) this cust
+    - stack [Tfx](tech_stack) projects from [CCMC](customer_name)
+    - bring all the projects of the [Tfx](tech_stack) project done for [CCMC](customer_name) this customer
+    - bring all of [Tfx](tech_stack) prjct done for [CCMC](customer_name) this cust
+    - stack [DVC](tech_stack) projects from [DGDA](customer_name)
+    - stack [Data Version Control](tech_stack) projects from [DGDA](customer_name)
+    - bring all the projects of the [DVC](tech_stack) project done for [DGDA](customer_name) this customer
+    - bring all the projects of the [Data Version Control](tech_stack) project done for [DGDA](customer_name) this customer
+    - bring all of [DVC](tech_stack) prjct done for [DGDA](customer_name) this cust
+    - bring all of [Data Version Control](tech_stack) prjct done for [DGDA](customer_name) this cust
+    - stack [KubeFlow Pipelines](tech_stack) projects from [DUCAB](customer_name)
+    - bring all the projects of the [KubeFlow Pipelines](tech_stack) project done for [DUCAB](customer_name) this customer
+    - bring all of [KubeFlow Pipelines](tech_stack) prjct done for [DUCAB](customer_name) this cust
+    - stack [New Relic](tech_stack) projects from [Du Telecom](customer_name)
+    - bring all the projects of the [New Relic](tech_stack) project done for [Du Telecom](customer_name) this customer
+    - bring all of [New Relic](tech_stack) prjct done for [Du Telecom](customer_name) this cust
+    - stack [Datadog](tech_stack) projects from [NOMAC](customer_name)
+    - bring all the projects of the [Datadog](tech_stack) project done for [NOMAC](customer_name) this customer
+    - bring all of [Datadog](tech_stack) prjct done for [NOMAC](customer_name) this cust
+    - stack [Sysdig](tech_stack) projects from [GMC](customer_name)
+    - bring all the projects of the [Sysdig](tech_stack) project done for [GMC](customer_name) this customer
+    - bring all of [Sysdig](tech_stack) prjct done for [GMC](customer_name) this cust
+    - stack [Raygun](tech_stack) projects from [GOT](customer_name)
+    - bring all the projects of the [Raygun](tech_stack) project done for [GOT](customer_name) this customer
+    - bring all of [Raygun](tech_stack) prjct done for [GOT](customer_name) this cust
+    - stack [Sentry](tech_stack) projects from [GSI](customer_name)
+    - bring all the projects of the [Sentry](tech_stack) project done for [GSI](customer_name) this customer
+    - bring all of [Sentry](tech_stack) prjct done for [GSI](customer_name) this cust
+    - stack [Rancher](tech_stack) projects from [HSAG](customer_name)
+    - bring all the projects of the [Rancher](tech_stack) project done for [HSAG](customer_name) this customer
+    - bring all of [Rancher](tech_stack) prjct done for [HSAG](customer_name) this cust
+    - stack [Nomad](tech_stack) projects from [MIC](customer_name)
+    - bring all the projects of the [Nomad](tech_stack) project done for [MIC](customer_name) this customer
+    - bring all of [Nomad](tech_stack) prjct done for [MIC](customer_name) this cust
+    - stack [Containerd](tech_stack) projects from [MSE](customer_name)
+    - bring all the projects of the [Containerd](tech_stack) project done for [MSE](customer_name) this customer
+    - bring all of [Containerd](tech_stack) prjct done for [MSE](customer_name) this cust
+    - stack [Podman](tech_stack) projects from [NAFCEL](customer_name)
+    - bring all the projects of the [Podman](tech_stack) project done for [NAFCEL](customer_name) this customer
+    - bring all of [Podman](tech_stack) prjct done for [NAFCEL](customer_name) this cust
+    - stack [DBVisualizer](tech_stack) projects from [NUPCO](customer_name)
+    - bring all the projects of the [DBVisualizer](tech_stack) project done for [NUPCO](customer_name) this customer
+    - bring all of [DBVisualizer](tech_stack) prjct done for [NUPCO](customer_name) this cust
+    - stack [pgAdmin](tech_stack) projects from [NWC](customer_name)
+    - bring all the projects of the [pgAdmin](tech_stack) project done for [NWC](customer_name) this customer
+    - bring all of [pgAdmin](tech_stack) prjct done for [NWC](customer_name) this cust
+    - stack [MongoDB Compass](tech_stack) projects from [OARC](customer_name)
+    - bring all the projects of the [MongoDB Compass](tech_stack) project done for [OARC](customer_name) this customer
+    - bring all of [MongoDB Compass](tech_stack) prjct done for [OARC](customer_name) this cust
+    - stack [DataGrip](tech_stack) projects from [S.A.O.G](customer_name)
+    - bring all the projects of the [DataGrip](tech_stack) project done for [S.A.O.G](customer_name) this customer
+    - bring all of [DataGrip](tech_stack) prjct done for [S.A.O.G](customer_name) this cust
+    - stack [SQLAlchemy](tech_stack) projects from [S.A.O.C](customer_name)
+    - bring all the projects of the [SQLAlchemy](tech_stack) project done for [S.A.O.C](customer_name) this customer
+    - bring all of [SQLAlchemy](tech_stack) prjct done for [S.A.O.C](customer_name) this cust
+    - stack [Helm](tech_stack) projects from [OMC](customer_name)
+    - bring all the projects of the [Helm](tech_stack) project done for [OMC](customer_name) this customer
+    - bring all of [Helm](tech_stack) prjct done for [OMC](customer_name) this cust
+    - stack [Ceph](tech_stack) projects from [ORPIC](customer_name)
+    - bring all the projects of the [Ceph](tech_stack) project done for [ORPIC](customer_name) this customer
+    - bring all of [Ceph](tech_stack) prjct done for [ORPIC](customer_name) this cust
+    - stack [InfluxDB](tech_stack) projects from [PDO](customer_name)
+    - bring all the projects of the [InfluxDB](tech_stack) project done for [PDO](customer_name) this customer
+    - bring all of [InfluxDB](tech_stack) prjct done for [PDO](customer_name) this cust
+    - stack [Redis](tech_stack) projects from [PSI](customer_name)
+    - bring all the projects of the [Redis](tech_stack) project done for [PSI](customer_name) this customer
+    - bring all of [Redis](tech_stack) prjct done for [PSI](customer_name) this cust
+    - stack [Vagrant](tech_stack) projects from [NAKILAT](customer_name)
+    - bring all the projects of the [Vagrant](tech_stack) project done for [NAKILAT](customer_name) this customer
+    - bring all of [Vagrant](tech_stack) prjct done for [NAKILAT](customer_name) this cust
+    - stack [VirtualBox](tech_stack) projects from [QPI](customer_name)
+    - bring all the projects of the [VirtualBox](tech_stack) project done for [QPI](customer_name) this customer
+    - bring all of [VirtualBox](tech_stack) prjct done for [QPI](customer_name) this cust
+    - stack [Wireshark](tech_stack) projects from [QPMC](customer_name)
+    - bring all the projects of the [Wireshark](tech_stack) project done for [QPMC](customer_name) this customer
+    - bring all of [Wireshark](tech_stack) prjct done for [QPMC](customer_name) this cust
+    - stack [Postman](tech_stack) projects from [RGPC](customer_name)
+    - bring all the projects of the [Postman](tech_stack) project done for [RGPC](customer_name) this customer
+    - bring all of [Postman](tech_stack) prjct done for [RGPC](customer_name) this cust
+    - stack [Fiddler](tech_stack) projects from [SAUDIA](customer_name)
+    - bring all the projects of the [Fiddler](tech_stack) project done for [SAUDIA](customer_name) this customer
+    - bring all of [Fiddler](tech_stack) prjct done for [SAUDIA](customer_name) this cust
+    - stack [DBeaver](tech_stack) projects from [SAGIA](customer_name)
+    - bring all the projects of the [DBeaver](tech_stack) project done for [SAGIA](customer_name) this customer
+    - bring all of [DBeaver](tech_stack) prjct done for [SAGIA](customer_name) this cust
+    - stack [GanttProject](tech_stack) projects from [SAMREF](customer_name)
+    - bring all the projects of the [GanttProject](tech_stack) project done for [SAMREF](customer_name) this customer
+    - bring all of [GanttProject](tech_stack) prjct done for [SAMREF](customer_name) this cust
+    - stack [Gliffy](tech_stack) projects from [The Executive Office](customer_name)
+    - bring all the projects of the [Gliffy](tech_stack) project done for [The Executive Office](customer_name) this customer
+    - bring all of [Gliffy](tech_stack) prjct done for [The Executive Office](customer_name) this cust
+    - stack [Lucidchart](tech_stack) projects from [NATPET](customer_name)
+    - bring all the projects of the [Lucidchart](tech_stack) project done for [NATPET](customer_name) this customer
+    - bring all of [Lucidchart](tech_stack) prjct done for [NATPET](customer_name) this cust
+    - stack [Draw.io](tech_stack) projects from [Kuwait Steel](customer_name)
+    - bring all the projects of the [Draw.io](tech_stack) project done for [Kuwait Steel](customer_name) this customer
+    - bring all of [Draw.io](tech_stack) prjct done for [Kuwait Steel](customer_name) this cust
+    - stack [Visual studio](tech_stack) projects from [TIG](customer_name)
+    - bring all the projects of the [Visual studio](tech_stack) project done for [TIG](customer_name) this customer
+    - bring all of [Visual studio](tech_stack) prjct done for [TIG](customer_name) this cust
+    - stack [Label image tool](tech_stack) projects from [MHD](customer_name)
+    - bring all the projects of the [Label image tool](tech_stack) project done for [MHD](customer_name) this customer
+    - bring all of [Label image tool](tech_stack) prjct done for [MHD](customer_name) this cust
+    - stack [ABAP](tech_stack) projects from [TCS](customer_name)
+    - bring all the projects of the [ABAP](tech_stack) project done for [TCS](customer_name) this customer
+    - bring all of [ABAP](tech_stack) prjct done for [TCS](customer_name) this cust
+    - stack [Tableau](tech_stack) projects from [CTS](customer_name)
+    - bring all the projects of the [Tableau](tech_stack) project done for [CTS](customer_name) this customer
+    - bring all of [Tableau](tech_stack) prjct done for [CTS](customer_name) this cust
 

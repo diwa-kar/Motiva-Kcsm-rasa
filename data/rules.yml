@@ -27,7 +27,12 @@ rules:
   - intent: single_doc_get_intent
   - action: single_doc_get_action
 
-- rule: Get tech stack project list
+- rule: Get tech stack customer wise project list
   steps:
-  - intent: tech_project_list_intent
-  - action: tech_project_list_action
+  - intent: tech_cust_project_list_intent
+  - action: tech_cust_project_list_action
+  
+# - rule: Get tech stack overall project list
+#   steps:
+#   - intent: tech_stack_project_list_intent
+#   - action: tech_stack_project_list_action
