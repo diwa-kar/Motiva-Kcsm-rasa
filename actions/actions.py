@@ -38,7 +38,7 @@ class ActionGoodbye(Action):
 class ActionProjectList(Action):
 
     def name(self) -> Text:
-        return "projectlist_action"
+        return "project_list_action"
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -58,7 +58,7 @@ class ActionProjectList(Action):
 class ActionAlldocList(Action):
 
     def name(self) -> Text:
-        return "alldoclist_action"
+        return "all_doc_list_action"
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -81,7 +81,7 @@ class ActionAlldocList(Action):
 class ActionOnedocList(Action):
 
     def name(self) -> Text:
-        return "singledocget_action"
+        return "single_doc_get_action"
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -102,3 +102,28 @@ class ActionOnedocList(Action):
         dispatcher.utter_message(text=msg)
 
         return [SlotSet("customer_name", None),SlotSet("project_name", None),SlotSet("doc_type",None)]
+    
+
+class ActionProjectList(Action):
+
+    def name(self) -> Text:
+        return "tech_project_list_action"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        customer_name = tracker.get_slot('customer_name')
+        tech_stack = tracker.get_slot('tech_stack')
+        
+        res = {
+            'Title': "Tech stack project list",
+            'Customer name': customer_name,
+            'Tech stack': tech_stack
+        }
+
+        msg = json.dumps(res)
+        print(msg)
+        dispatcher.utter_message(text=msg)
+
+        return [SlotSet("customer_name", None),SlotSet("tech_stack", None)]
