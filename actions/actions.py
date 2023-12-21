@@ -6,7 +6,14 @@ from rasa_sdk.events import UserUtteranceReverted
 import json
 from rasa_sdk.events import SlotSet
 
+import httpx
 
+import asyncio
+
+
+from actions.ai_support import rasa_text_extract_company_name_project_name,rasa_text_extract_company_name,rasa_text_extract_all_three
+
+from actions.azure_mysql_calls import fetch_all_customers,fetch_project_list
 
 class ActionGreet(Action):
 
@@ -43,14 +50,148 @@ class ActionProjectList(Action):
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        
 
+        # getting user input
+        user_input = tracker.latest_message.get('text')
+
+        # getting customer name via rasa slot
         customer_name = tracker.get_slot('customer_name')
-        res = {
-            'Title': "Project list",
-            'Customer name': customer_name
-        }
+
+        # res = {
+        #     'Title': "Project list",
+        #     'Customer name': customer_name
+        # }
+
+        
+
+
+        customer_list = fetch_all_customers()
+        print(customer_list)
+
+        # if customer_name is None or company_name_flag == 1:
+
+
+        res = rasa_text_extract_company_name(user_input)
+        print("inside palm",res)
+
+        customer_name = res['company_name']
+
+
+        if customer_name not in customer_list:
+            print("company not present")
+            bot_res =  "Customer is not part of our database"
+            fetch_success = 0
+
+        else:
+            project_list = fetch_project_list(customer_name)
+            bot_res =  f"The list of projects of the {customer_name} is ......"
+            fetch_success = 1
+
+
+
+
+        
+        # else:
+        #     res = rasa_text_extract_company_name(user_input)
+        #     print("inside palm",res)
+
+        #     customer_name = res['company_name']
+
+        #     project_list = fetch_project_list(customer_name)
+
+
+
+        # # checking the customer name is in sql or not
+        # url = 'http://127.0.0.1:8000/meta/customer/all'
+        # response = httpx.get(url)
+
+        # response = asyncio.run(fetch_all_customers())
+
+        # response = await fetch_all_customers()
+
+
+        # print(response)
+
+    
+        # # flag for finding out the company name is on the DB or not
+        # company_name_flag = 0
+
+        # if response.status_code == 200:
+        #     customer_data = response.json()
+        #     print("Request was successful")
+                        
+        #     customer_list = []
+                        
+        #     for data in customer_data:
+        #         customer_list.append(data["customer_name"])
+                            
+        #     if customer_name not in customer_list:
+        #         print("company not present")
+        #         company_name_flag = 1
+                        
+        #     else:
+        #         print("company present")
+        #         # geting all the projects under the customer name
+        #         url = f'http://127.0.0.1:8000/meta/customer/{customer_name}'
+        #         response = httpx.get(url)
+
+
+        #     print(customer_list)
+
+        # else:
+        #     print(f"Request failed with status code {response.status_code}")
+        #     print("Error message:", response.text) 
+
+        # if customer_name is None or company_name_flag == 1:
+        #     res = rasa_text_extract_company_name(user_input)
+        #     print("inside palm",res)
+
+        #     customer_name = res['company_name']
+
+        
+
+
+        
+
+        # # geting all the projects under the customer name
+        # url = f'http://127.0.0.1:8000/meta/customer/{customer_name}'
+        # response = httpx.get(url)
+
+        # if response.status_code == 200:
+        #     customer_list = response.json()
+
+
+        # else:
+        #     print(f"Request failed with status code {response.status_code}")
+        #     print("Error message:", response.text)
+
+
+        # print(customer_name)
+
+        # type(customer_name)
+
+        # a = rasa_text_extract(user_input)
+        # print("function call",a)
+
+        if fetch_success:
+            res = {
+                'Title': "Project list",
+                'Customer name': customer_name,
+                'project list': project_list,
+                'bot_text': bot_res
+            }
+        
+        else:
+            res = {
+                'Title': "Project list",
+                'Customer name': customer_name,
+                'bot_text': bot_res
+            }
+            
+
         msg = json.dumps(res)
-        print(msg)
+        # print(msg)
         dispatcher.utter_message(text=msg)
 
         return [SlotSet("customer_name", None)]
