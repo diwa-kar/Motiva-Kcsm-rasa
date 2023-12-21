@@ -14,15 +14,25 @@ rules:
 
 - rule: Send Project list
   steps:
-  - intent: projectlist_intent
-  - action: projectlist_action
+  - intent: project_list_intent
+  - action: project_list_action
 
 - rule: Send All Documents
   steps:
-  - intent: alldoclist_intent
-  - action: alldoclist_action
+  - intent: all_doc_list_intent
+  - action: all_doc_list_action
 
 - rule: Send Single Documents
   steps:
-  - intent: singledocget_intent
-  - action: singledocget_action
+  - intent: single_doc_get_intent
+  - action: single_doc_get_action
+
+- rule: Get tech stack customer wise project list
+  steps:
+  - intent: tech_cust_project_list_intent
+  - action: tech_cust_project_list_action
+  
+# - rule: Get tech stack overall project list
+#   steps:
+#   - intent: tech_stack_project_list_intent
+#   - action: tech_stack_project_list_action

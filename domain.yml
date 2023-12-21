@@ -4,17 +4,22 @@ intents:
 
   - intent_greet
   - intent_goodbye
-  - projectlist_intent
-  - alldoclist_intent
-  - singledocget_intent
+  - project_list_intent
+  - all_doc_list_intent
+  - single_doc_get_intent
+  - tech_cust_project_list_intent
+  # - tech_stack_project_list_intent
 
 
 actions:
   - action_greet
   - action_goodbye
-  - projectlist_action
-  - alldoclist_action
-  - singledocget_action
+  - project_list_action
+  - all_doc_list_action
+  - single_doc_get_action
+  - tech_cust_project_list_action
+  # - tech_stack_project_list_action
+
 
 # responses:
 #   utter_greet:
@@ -51,6 +56,10 @@ entities:
       type: text
       pattern: '[A-Za-z0-9. ]+$'
 
+  - tech_stack:
+      type: text
+      pattern: '[A-Za-z0-9. ]+$'
+
 slots:
   project_name:
     type: text
@@ -72,6 +81,13 @@ slots:
       mappings:
       - type: from_entity
         entity: doc_type
+
+  tech_stack:
+      type: text
+      influence_conversation: true
+      mappings:
+      - type: from_entity
+        entity: tech_stack
 
 
 session_config:
