@@ -13,7 +13,7 @@ import asyncio
 
 from actions.ai_support import rasa_text_extract_company_name_project_name,rasa_text_extract_company_name,rasa_text_extract_all_three
 
-from actions.azure_mysql_calls import fetch_all_customers,fetch_project_list
+from actions.azure_mysql_calls import fetch_all_customers,fetch_project_list,check_customer_presence,fetch_document_list
 
 class ActionGreet(Action):
 
@@ -55,56 +55,33 @@ class ActionProjectList(Action):
         # getting user input
         user_input = tracker.latest_message.get('text')
 
-        # # getting customer name via rasa slot
-        # customer_name = tracker.get_slot('customer_name')
-
-        # res = {
-        #     'Title': "Project list",
-        #     'Customer name': customer_name
-        # }
-
+        # getting user list from azure mysql
         customer_list = fetch_all_customers()
-        print(customer_list)
+        print("inside projects list",customer_list)
 
-        # if customer_name is None or company_name_flag == 1:
+        # checking company name is present or not using regex
+        customer_name = check_customer_presence(customer_list,user_input)
 
-        res = rasa_text_extract_company_name(user_input)
-        print("inside palm",res)
-
-        customer_name = res['company_name'].lower()
-
-        # print(customer_name)
-
-
-        if customer_name not in customer_list:
-            print("company not present")
-            bot_res =  "Customer is not part of our database"
-            fetch_success = 0
-
-        else:
+        if customer_name != False:
+            res = "customer found"
             project_list = fetch_project_list(customer_name)
-            bot_res =  f"The list of projects of the {customer_name} is ......"
-            fetch_success = 1
 
 
-        if fetch_success:
             res = {
-                'Title': "Project list",
-                'Customer name': customer_name,
-                'project list': project_list,
-                'bot_text': bot_res
+                "bot_text": f"The list of projects of customer {customer_name}  ..",
+                "project_list":project_list
+
             }
         
         else:
-            res = {
-                'Title': "Project list",
-                'Customer name': customer_name,
-                'bot_text': bot_res
+
+             res = {
+                "bot_text": f"The given customer is not a part of our DB",
+
             }
             
 
         msg = json.dumps(res)
-        # print(msg)
         dispatcher.utter_message(text=msg)
 
         return [SlotSet("customer_name", None)]
@@ -130,39 +107,42 @@ class ActionAlldocList(Action):
         print(customer_list)
 
 
-        res = rasa_text_extract_company_name_project_name(user_input)
-        print("inside palm",res)
+        # checking company name is present or not using regex
+        customer_name = check_customer_presence(customer_list,user_input)
 
-        customer_name = res['company_name'].lower()
-        project_name = res['project_name'].lower()
+        if customer_name != False:
+            project_list = fetch_project_list(customer_name)
 
+            # checking project name is present or not
+            project_name = check_customer_presence(project_list,user_input)
 
-        print(customer_name,project_name)
+            if project_name != False:
 
-        # project_name = res['']
+                doc_data = fetch_document_list(customer_name,project_name)
 
-
-        # if customer_name not in customer_list:
-        #     print("company not present")
-        #     bot_res =  "Customer is not part of our database"
-        #     fetch_success = 0
-
-
-
-
-        # else:
-        #     project_list = fetch_project_list(customer_name)
-        #     # bot_res =  f"The list of projects of the {customer_name} is ......"
-        #     # fetch_success = 1
-
+                res = {
+                    "bot_text": f"The documents present in {customer_name}-{project_name}  ..",
+                    "doc_data": doc_data,
+                }
             
+            else:
+                res = {
+                    "bot_text": "project not present",
+                }
 
         
-        res = {
-            'Title': "Project list",
-            'Customer name': customer_name,
-            'Project name': project_name
-        }
+        else:
+
+             res = {
+                "bot_text": f"The given customer is not a part of our DB",
+            }
+
+
+
+
+        # res = customer_list
+
+
         msg = json.dumps(res)
         print(msg)
         dispatcher.utter_message(text=msg)

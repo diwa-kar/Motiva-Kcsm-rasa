@@ -1,10 +1,11 @@
 import requests
+import re
 
 
 # fetch all customer details
 def fetch_all_customers():
     try:
-        response = requests.get('http://127.0.0.1:8000/meta/customer/all')
+        response = requests.get('http://43.204.46.203:8000/meta/customer/all')
         response.raise_for_status()  # Raise an exception for bad responses (non-2xx)
 
         customer_data = response.json()
@@ -25,7 +26,7 @@ def fetch_all_customers():
 
 # fetch project list using customer name
 def fetch_project_list(customer_name):
-    url = f'http://127.0.0.1:8000/meta/projects/{customer_name}'
+    url = f'http://43.204.46.203:8000/meta/projects/{customer_name}'
 
     try:
         response = requests.get(url)
@@ -45,7 +46,7 @@ def fetch_project_list(customer_name):
 
 
 def fetch_document_list(customer_name,project_name):
-    url = f'http://127.0.0.1:8000/meta/documents/{customer_name}/{project_name}'
+    url = f'http://43.204.46.203:8000/meta/documents/{customer_name}/{project_name}'
 
     try:
         response = requests.get(url)
@@ -81,3 +82,14 @@ def fetch_document_list(customer_name,project_name):
 
 
 
+
+## Regex calls to get company name
+    
+
+def check_customer_presence(customer_names, line):
+    for customer_name in customer_names:
+        pattern = re.compile(fr'\b{re.escape(customer_name)}\b', re.IGNORECASE)
+        if re.search(pattern, line):
+            return customer_name
+    
+    return False
