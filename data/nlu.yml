@@ -5971,7 +5971,7 @@ nlu:
 
 - intent: customer_list_intent
   examples: |
-   - show me the list of customer of our organization
+    - show me the list of customer of our organization
     - get me the list of customer from our organization
     - show me all customer of our organization
     - get me all the customer of our organization
