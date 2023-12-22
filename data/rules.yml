@@ -32,7 +32,7 @@ rules:
   - intent: tech_cust_project_list_intent
   - action: tech_cust_project_list_action
   
-# - rule: Get tech stack overall project list
-#   steps:
-#   - intent: tech_stack_project_list_intent
-#   - action: tech_stack_project_list_action
+- rule: Get customer list
+  steps:
+  - intent: customer_list_intent
+  - action: customer_list_action

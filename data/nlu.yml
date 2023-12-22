@@ -5969,3 +5969,345 @@ nlu:
     - bring all the projects of the [Tableau](tech_stack) project done for [CTS](customer_name) this customer
     - bring all of [Tableau](tech_stack) prjct done for [CTS](customer_name) this cust
 
+- intent: customer_list_intent
+  examples: |
+   - show me the list of [customer](customer_name) of our organization
+    - get me the list of [customer](customer_name) from our organization
+    - show me all [customer](customer_name) of our organization
+    - get me all the [customer](customer_name) of our organization
+    - can you please list the [customer](customer_name) of our organization
+    - fetch the list of [customer](customer_name) of our organization
+    - please list [customer](customer_name) of our organization
+    - this organization list of [customer](customer_name)
+    - get me the list of [customer](customer_name)
+    - get me all [customer](customer_name) list
+    - list of all [customer](customer_name)
+    - show me the names of our [customer](customer_name)
+    - list all our [customer](customer_name)
+    - provide a list of [customer](customer_name) associated with our organization
+    - bring the list of [customer](customer_name) linked to our organization
+    - compilation of our organization [customer](customer_name) database
+    - list of [customer](customer_name) we have
+    - show me the list of [customer](customer_name) of our org
+    - get me the list of [customer](customer_name) from our org
+    - show me all [customer](customer_name) of our org
+    - get me all the [customer](customer_name) of our org
+    - can you please list the [customer](customer_name) of our org
+    - fetch the list of [customer](customer_name) of our org
+    - please list [customer](customer_name) of our org
+    - this org list of [customer](customer_name)
+    - get me the list of [customer](customer_name)
+    - get me all [customer](customer_name) list
+    - list of all [customer](customer_name)
+    - show me the names of our [customer](customer_name)
+    - list all our [customer](customer_name)
+    - provide a list of [customer](customer_name) associated with our org
+    - bring the list of [customer](customer_name) linked to our org
+    - compilation of our org [customer](customer_name) database
+    - list of [customer](customer_name) we have
+    - show me the list of [customer](customer_name) of our company
+    - get me the list of [customer](customer_name) from our company
+    - show me all [customer](customer_name) of our company
+    - get me all the [customer](customer_name) of our company
+    - can you please list the [customer](customer_name) of our company
+    - fetch the list of [customer](customer_name) of our company
+    - please list [customer](customer_name) of our company
+    - this company list of [customer](customer_name)
+    - get me the list of [customer](customer_name)
+    - get me all [customer](customer_name) list
+    - list of all [customer](customer_name)
+    - show me the names of our [customer](customer_name)
+    - list all our [customer](customer_name)
+    - provide a list of [customer](customer_name) associated with our company
+    - bring the list of [customer](customer_name) linked to our company
+    - compilation of our company [customer](customer_name) database
+    - list of [customer](customer_name) we have
+    - show me the list of [customer](customer_name) of our cmpny
+    - get me the list of [customer](customer_name) from our cmpny
+    - show me all [customer](customer_name) of our cmpny
+    - get me all the [customer](customer_name) of our cmpny
+    - can you please list the [customer](customer_name) of our cmpny
+    - fetch the list of [customer](customer_name) of our cmpny
+    - please list [customer](customer_name) of our cmpny
+    - this cmpny list of [customer](customer_name)
+    - get me the list of [customer](customer_name)
+    - get me all [customer](customer_name) list
+    - list of all [customer](customer_name)
+    - show me the names of our [customer](customer_name)
+    - list all our [customer](customer_name)
+    - provide a list of [customer](customer_name) associated with our cmpny
+    - bring the list of [customer](customer_name) linked to our cmpny
+    - compilation of our cmpny [customer](customer_name) database
+    - list of [customer](customer_name) we have
+    - show me the list of [clients](customer_name) of our organization
+    - get me the list of [clients](customer_name) from our organization
+    - show me all [clients](customer_name) of our organization
+    - get me all the [clients](customer_name) of our organization
+    - can you please list the [clients](customer_name) of our organization
+    - fetch the list of [clients](customer_name) of our organization
+    - please list [clients](customer_name) of our organization
+    - this organization list of [clients](customer_name)
+    - get me the list of [clients](customer_name)
+    - get me all [clients](customer_name) list
+    - list of all [clients](customer_name)
+    - show me the names of our [clients](customer_name)
+    - list all our [clients](customer_name)
+    - provide a list of [clients](customer_name) associated with our organization
+    - bring the list of [clients](customer_name) linked to our organization
+    - compilation of our organization [clients](customer_name) database
+    - list of [clients](customer_name) we have
+    - show me the list of [clients](customer_name) of our org
+    - get me the list of [clients](customer_name) from our org
+    - show me all [clients](customer_name) of our org
+    - get me all the [clients](customer_name) of our org
+    - can you please list the [clients](customer_name) of our org
+    - fetch the list of [clients](customer_name) of our org
+    - please list [clients](customer_name) of our org
+    - this org list of [clients](customer_name)
+    - get me the list of [clients](customer_name)
+    - get me all [clients](customer_name) list
+    - list of all [clients](customer_name)
+    - show me the names of our [clients](customer_name)
+    - list all our [clients](customer_name)
+    - provide a list of [clients](customer_name) associated with our org
+    - bring the list of [clients](customer_name) linked to our org
+    - compilation of our org [clients](customer_name) database
+    - list of [clients](customer_name) we have
+    - show me the list of [clients](customer_name) of our company
+    - get me the list of [clients](customer_name) from our company
+    - show me all [clients](customer_name) of our company
+    - get me all the [clients](customer_name) of our company
+    - can you please list the [clients](customer_name) of our company
+    - fetch the list of [clients](customer_name) of our company
+    - please list [clients](customer_name) of our company
+    - this company list of [clients](customer_name)
+    - get me the list of [clients](customer_name)
+    - get me all [clients](customer_name) list
+    - list of all [clients](customer_name)
+    - show me the names of our [clients](customer_name)
+    - list all our [clients](customer_name)
+    - provide a list of [clients](customer_name) associated with our company
+    - bring the list of [clients](customer_name) linked to our company
+    - compilation of our company [clients](customer_name) database
+    - list of [clients](customer_name) we have
+    - show me the list of [clients](customer_name) of our cmpny
+    - get me the list of [clients](customer_name) from our cmpny
+    - show me all [clients](customer_name) of our cmpny
+    - get me all the [clients](customer_name) of our cmpny
+    - can you please list the [clients](customer_name) of our cmpny
+    - fetch the list of [clients](customer_name) of our cmpny
+    - please list [clients](customer_name) of our cmpny
+    - this cmpny list of [clients](customer_name)
+    - get me the list of [clients](customer_name)
+    - get me all [clients](customer_name) list
+    - list of all [clients](customer_name)
+    - show me the names of our [clients](customer_name)
+    - list all our [clients](customer_name)
+    - provide a list of [clients](customer_name) associated with our cmpny
+    - bring the list of [clients](customer_name) linked to our cmpny
+    - compilation of our cmpny [clients](customer_name) database
+    - list of [clients](customer_name) we have
+    - show me the list of [Customer](customer_name) of our organization
+    - get me the list of [Customer](customer_name) from our organization
+    - show me all [Customer](customer_name) of our organization
+    - get me all the [Customer](customer_name) of our organization
+    - can you please list the [Customer](customer_name) of our organization
+    - fetch the list of [Customer](customer_name) of our organization
+    - please list [Customer](customer_name) of our organization
+    - this organization list of [Customer](customer_name)
+    - get me the list of [Customer](customer_name)
+    - get me all [Customer](customer_name) list
+    - list of all [Customer](customer_name)
+    - show me the names of our [Customer](customer_name)
+    - list all our [Customer](customer_name)
+    - provide a list of [Customer](customer_name) associated with our organization
+    - bring the list of [Customer](customer_name) linked to our organization
+    - compilation of our organization [Customer](customer_name) database
+    - list of [Customer](customer_name) we have
+    - show me the list of [Customer](customer_name) of our org
+    - get me the list of [Customer](customer_name) from our org
+    - show me all [Customer](customer_name) of our org
+    - get me all the [Customer](customer_name) of our org
+    - can you please list the [Customer](customer_name) of our org
+    - fetch the list of [Customer](customer_name) of our org
+    - please list [Customer](customer_name) of our org
+    - this org list of [Customer](customer_name)
+    - get me the list of [Customer](customer_name)
+    - get me all [Customer](customer_name) list
+    - list of all [Customer](customer_name)
+    - show me the names of our [Customer](customer_name)
+    - list all our [Customer](customer_name)
+    - provide a list of [Customer](customer_name) associated with our org
+    - bring the list of [Customer](customer_name) linked to our org
+    - compilation of our org [Customer](customer_name) database
+    - list of [Customer](customer_name) we have
+    - show me the list of [Customer](customer_name) of our company
+    - get me the list of [Customer](customer_name) from our company
+    - show me all [Customer](customer_name) of our company
+    - get me all the [Customer](customer_name) of our company
+    - can you please list the [Customer](customer_name) of our company
+    - fetch the list of [Customer](customer_name) of our company
+    - please list [Customer](customer_name) of our company
+    - this company list of [Customer](customer_name)
+    - get me the list of [Customer](customer_name)
+    - get me all [Customer](customer_name) list
+    - list of all [Customer](customer_name)
+    - show me the names of our [Customer](customer_name)
+    - list all our [Customer](customer_name)
+    - provide a list of [Customer](customer_name) associated with our company
+    - bring the list of [Customer](customer_name) linked to our company
+    - compilation of our company [Customer](customer_name) database
+    - list of [Customer](customer_name) we have
+    - show me the list of [Customer](customer_name) of our cmpny
+    - get me the list of [Customer](customer_name) from our cmpny
+    - show me all [Customer](customer_name) of our cmpny
+    - get me all the [Customer](customer_name) of our cmpny
+    - can you please list the [Customer](customer_name) of our cmpny
+    - fetch the list of [Customer](customer_name) of our cmpny
+    - please list [Customer](customer_name) of our cmpny
+    - this cmpny list of [Customer](customer_name)
+    - get me the list of [Customer](customer_name)
+    - get me all [Customer](customer_name) list
+    - list of all [Customer](customer_name)
+    - show me the names of our [Customer](customer_name)
+    - list all our [Customer](customer_name)
+    - provide a list of [Customer](customer_name) associated with our cmpny
+    - bring the list of [Customer](customer_name) linked to our cmpny
+    - compilation of our cmpny [Customer](customer_name) database
+    - list of [Customer](customer_name) we have
+    - show me the list of [cust](customer_name) of our organization
+    - get me the list of [cust](customer_name) from our organization
+    - show me all [cust](customer_name) of our organization
+    - get me all the [cust](customer_name) of our organization
+    - can you please list the [cust](customer_name) of our organization
+    - fetch the list of [cust](customer_name) of our organization
+    - please list [cust](customer_name) of our organization
+    - this organization list of [cust](customer_name)
+    - get me the list of [cust](customer_name)
+    - get me all [cust](customer_name) list
+    - list of all [cust](customer_name)
+    - show me the names of our [cust](customer_name)
+    - list all our [cust](customer_name)
+    - provide a list of [cust](customer_name) associated with our organization
+    - bring the list of [cust](customer_name) linked to our organization
+    - compilation of our organization [cust](customer_name) database
+    - list of [cust](customer_name) we have
+    - show me the list of [cust](customer_name) of our org
+    - get me the list of [cust](customer_name) from our org
+    - show me all [cust](customer_name) of our org
+    - get me all the [cust](customer_name) of our org
+    - can you please list the [cust](customer_name) of our org
+    - fetch the list of [cust](customer_name) of our org
+    - please list [cust](customer_name) of our org
+    - this org list of [cust](customer_name)
+    - get me the list of [cust](customer_name)
+    - get me all [cust](customer_name) list
+    - list of all [cust](customer_name)
+    - show me the names of our [cust](customer_name)
+    - list all our [cust](customer_name)
+    - provide a list of [cust](customer_name) associated with our org
+    - bring the list of [cust](customer_name) linked to our org
+    - compilation of our org [cust](customer_name) database
+    - list of [cust](customer_name) we have
+    - show me the list of [cust](customer_name) of our company
+    - get me the list of [cust](customer_name) from our company
+    - show me all [cust](customer_name) of our company
+    - get me all the [cust](customer_name) of our company
+    - can you please list the [cust](customer_name) of our company
+    - fetch the list of [cust](customer_name) of our company
+    - please list [cust](customer_name) of our company
+    - this company list of [cust](customer_name)
+    - get me the list of [cust](customer_name)
+    - get me all [cust](customer_name) list
+    - list of all [cust](customer_name)
+    - show me the names of our [cust](customer_name)
+    - list all our [cust](customer_name)
+    - provide a list of [cust](customer_name) associated with our company
+    - bring the list of [cust](customer_name) linked to our company
+    - compilation of our company [cust](customer_name) database
+    - list of [cust](customer_name) we have
+    - show me the list of [cust](customer_name) of our cmpny
+    - get me the list of [cust](customer_name) from our cmpny
+    - show me all [cust](customer_name) of our cmpny
+    - get me all the [cust](customer_name) of our cmpny
+    - can you please list the [cust](customer_name) of our cmpny
+    - fetch the list of [cust](customer_name) of our cmpny
+    - please list [cust](customer_name) of our cmpny
+    - this cmpny list of [cust](customer_name)
+    - get me the list of [cust](customer_name)
+    - get me all [cust](customer_name) list
+    - list of all [cust](customer_name)
+    - show me the names of our [cust](customer_name)
+    - list all our [cust](customer_name)
+    - provide a list of [cust](customer_name) associated with our cmpny
+    - bring the list of [cust](customer_name) linked to our cmpny
+    - compilation of our cmpny [cust](customer_name) database
+    - list of [cust](customer_name) we have
+    - show me the list of [entities](customer_name) of our organization
+    - get me the list of [entities](customer_name) from our organization
+    - show me all [entities](customer_name) of our organization
+    - get me all the [entities](customer_name) of our organization
+    - can you please list the [entities](customer_name) of our organization
+    - fetch the list of [entities](customer_name) of our organization
+    - please list [entities](customer_name) of our organization
+    - this organization list of [entities](customer_name)
+    - get me the list of [entities](customer_name)
+    - get me all [entities](customer_name) list
+    - list of all [entities](customer_name)
+    - show me the names of our [entities](customer_name)
+    - list all our [entities](customer_name)
+    - provide a list of [entities](customer_name) associated with our organization
+    - bring the list of [entities](customer_name) linked to our organization
+    - compilation of our organization [entities](customer_name) database
+    - list of [entities](customer_name) we have
+    - show me the list of [entities](customer_name) of our org
+    - get me the list of [entities](customer_name) from our org
+    - show me all [entities](customer_name) of our org
+    - get me all the [entities](customer_name) of our org
+    - can you please list the [entities](customer_name) of our org
+    - fetch the list of [entities](customer_name) of our org
+    - please list [entities](customer_name) of our org
+    - this org list of [entities](customer_name)
+    - get me the list of [entities](customer_name)
+    - get me all [entities](customer_name) list
+    - list of all [entities](customer_name)
+    - show me the names of our [entities](customer_name)
+    - list all our [entities](customer_name)
+    - provide a list of [entities](customer_name) associated with our org
+    - bring the list of [entities](customer_name) linked to our org
+    - compilation of our org [entities](customer_name) database
+    - list of [entities](customer_name) we have
+    - show me the list of [entities](customer_name) of our company
+    - get me the list of [entities](customer_name) from our company
+    - show me all [entities](customer_name) of our company
+    - get me all the [entities](customer_name) of our company
+    - can you please list the [entities](customer_name) of our company
+    - fetch the list of [entities](customer_name) of our company
+    - please list [entities](customer_name) of our company
+    - this company list of [entities](customer_name)
+    - get me the list of [entities](customer_name)
+    - get me all [entities](customer_name) list
+    - list of all [entities](customer_name)
+    - show me the names of our [entities](customer_name)
+    - list all our [entities](customer_name)
+    - provide a list of [entities](customer_name) associated with our company
+    - bring the list of [entities](customer_name) linked to our company
+    - compilation of our company [entities](customer_name) database
+    - list of [entities](customer_name) we have
+    - show me the list of [entities](customer_name) of our cmpny
+    - get me the list of [entities](customer_name) from our cmpny
+    - show me all [entities](customer_name) of our cmpny
+    - get me all the [entities](customer_name) of our cmpny
+    - can you please list the [entities](customer_name) of our cmpny
+    - fetch the list of [entities](customer_name) of our cmpny
+    - please list [entities](customer_name) of our cmpny
+    - this cmpny list of [entities](customer_name)
+    - get me the list of [entities](customer_name)
+    - get me all [entities](customer_name) list
+    - list of all [entities](customer_name)
+    - show me the names of our [entities](customer_name)
+    - list all our [entities](customer_name)
+    - provide a list of [entities](customer_name) associated with our cmpny
+    - bring the list of [entities](customer_name) linked to our cmpny
+    - compilation of our cmpny [entities](customer_name) database
+    - list of [entities](customer_name) we have

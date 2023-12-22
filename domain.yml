@@ -8,6 +8,7 @@ intents:
   - all_doc_list_intent
   - single_doc_get_intent
   - tech_cust_project_list_intent
+  - customer_list_intent
   # - tech_stack_project_list_intent
 
 
@@ -18,6 +19,7 @@ actions:
   - all_doc_list_action
   - single_doc_get_action
   - tech_cust_project_list_action
+  - customer_list_action
   # - tech_stack_project_list_action
 
 

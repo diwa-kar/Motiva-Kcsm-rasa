@@ -220,24 +220,25 @@ class ActionTechCustProjectList(Action):
         return [SlotSet("customer_name", None),SlotSet("tech_stack", None)]
 
 
-# class ActionTechAllProjectList(Action):
+class ActionTechAllProjectList(Action):
 
-#     def name(self) -> Text:
-#         return "tech_stack_project_list_action"
+    def name(self) -> Text:
+        return "customer_list_action"
 
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-#         tech_stack = tracker.get_slot('tech_stack')
+        customer_name = tracker.get_slot('customer_name')
         
-#         res = {
-#             'Title': "Tech stack project list",
-#             'Tech stack': tech_stack
-#         }
+        res = {
+            'Title': "Customer list",
+            'Tech stack': customer_name
+        }
 
-#         msg = json.dumps(res)
-#         print(msg)
-#         dispatcher.utter_message(text=msg)
+        msg = json.dumps(res)
+        print(msg)
+        dispatcher.utter_message(text=msg)
 
-#         return [SlotSet("tech_stack", None)]
+        return [SlotSet("customer_name", None)]
+
