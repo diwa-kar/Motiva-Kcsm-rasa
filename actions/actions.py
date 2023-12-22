@@ -229,11 +229,9 @@ class ActionTechAllProjectList(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-        customer_name = tracker.get_slot('customer_name')
         
         res = {
             'Title': "Customer list",
-            'Tech stack': customer_name
         }
 
         msg = json.dumps(res)
