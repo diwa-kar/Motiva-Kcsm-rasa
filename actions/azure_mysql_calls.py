@@ -44,5 +44,40 @@ def fetch_project_list(customer_name):
     
 
 
+def fetch_document_list(customer_name,project_name):
+    url = f'http://127.0.0.1:8000/meta/documents/{customer_name}/{project_name}'
+
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for bad responses (non-2xx)
+        
+        project_doc_list = response.json()
+
+        return_data_list = []
+
+        for i in project_doc_list:
+            data_dict = {}
+            
+            data_dict["customer_id"]= i["customer_id"]
+            data_dict["project_id"]= i["project_id"]
+            data_dict["project_name"]= i["project_name"].split('/')[1]
+            data_dict["document_id"]= i["document_id"]
+            data_dict["document_name"]= i["document_name"].split('/')[2]
+            
+            data_dict["document_type"]= i["document_type"]
+            data_dict["document_extension"]= i["document_extension"]
+            data_dict["phase"]= i["phase"]
+            data_dict["document_storage_link"]= i["document_storage_link"]
+            
+            return_data_list.append(data_dict)
+
+        return return_data_list
+
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed with exception: {e}")
+        print("Error message:", response.text if 'response' in locals() else 'No response object')
+        return []
+
+
 
 
